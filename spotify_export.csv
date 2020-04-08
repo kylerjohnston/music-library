@@ -225,14 +225,14 @@ The State I Am In,Push Barman To Open Old Wounds,Belle & Sebastian,2,Belle & Seb
 I Know Where The Summer Goes,Push Barman To Open Old Wounds,Belle & Sebastian,2,Belle & Sebastian,2005-05-24,2017-11-25T16:16:39Z,277520,False,,,,,,,586507b1c977d997b1db17ce81af6e16
 The Gate,Push Barman To Open Old Wounds,Belle & Sebastian,3,Belle & Sebastian,2005-05-24,2017-11-25T16:16:39Z,267386,False,,,,,,,d728b08917235ddad8bb88f1413b3c55
 String Bean Jean,Push Barman To Open Old Wounds,Belle & Sebastian,3,Belle & Sebastian,2005-05-24,2017-11-25T16:16:39Z,283360,False,,,,,,,d81058fb19a2af8eb0221319484ec396
-Belle & Sebastian,Push Barman To Open Old Wounds,Belle & Sebastian,4,Belle & Sebastian,2005-05-24,2017-11-25T16:16:39Z,276400,False,,,,,,,1fb77e5d8ba2136aa9923e0e575db487
 Slow Graffiti,Push Barman To Open Old Wounds,Belle & Sebastian,4,Belle & Sebastian,2005-05-24,2017-11-25T16:16:39Z,205546,False,,,,,,,33737608db6bf522a6b5b19f76b65695
+Belle & Sebastian,Push Barman To Open Old Wounds,Belle & Sebastian,4,Belle & Sebastian,2005-05-24,2017-11-25T16:16:39Z,276400,False,,,,,,,1fb77e5d8ba2136aa9923e0e575db487
 Legal Man,Push Barman To Open Old Wounds,Belle & Sebastian,5,Belle & Sebastian,2005-05-24,2017-11-25T16:16:39Z,162653,False,,,,,,,24fc7ede01d75e1fa33b2bb1128046ff
 Lazy Line Painter Jane,Push Barman To Open Old Wounds,Belle & Sebastian,5,Belle & Sebastian,2005-05-24,2017-07-19T00:07:40Z,349973,False,,,,,,,913018504330ff20e192f2212e34d851
 You Made Me Forget My Dreams,Push Barman To Open Old Wounds,Belle & Sebastian,6,Belle & Sebastian,2005-05-24,2017-11-25T16:16:39Z,230613,False,,,,,,,bab82351819de5a35f58581b9b389882
 Judy Is A Dick Slap,Push Barman To Open Old Wounds,Belle & Sebastian,6,Belle & Sebastian,2005-05-24,2017-11-25T16:16:39Z,245546,False,,,,,,,eba8c4e65382f2870e152db9ef4e384f
-A Century Of Elvis,Push Barman To Open Old Wounds,Belle & Sebastian,7,Belle & Sebastian,2005-05-24,2017-11-25T16:16:39Z,269426,False,,,,,,,3d428ca7916daf35f2e8466b141b3ea0
 Winter Wooskie,Push Barman To Open Old Wounds,Belle & Sebastian,7,Belle & Sebastian,2005-05-24,2017-11-25T16:16:39Z,161960,False,,,,,,,d2a7b24f025b63c9df158bb9cbb2cfbb
+A Century Of Elvis,Push Barman To Open Old Wounds,Belle & Sebastian,7,Belle & Sebastian,2005-05-24,2017-11-25T16:16:39Z,269426,False,,,,,,,3d428ca7916daf35f2e8466b141b3ea0
 Photo Jenny,Push Barman To Open Old Wounds,Belle & Sebastian,8,Belle & Sebastian,2005-05-24,2017-11-25T16:16:39Z,194053,False,,,,,,,c2351a3e84d9694b83e0d9c7c0dc67c9
 Jonathan David,Push Barman To Open Old Wounds,Belle & Sebastian,8,Belle & Sebastian,2005-05-24,2017-11-25T16:16:39Z,179866,False,,,,,,,41b3e6b6d1e5ea88001dfe9e7fd8b4d1
 A Century Of Fakers,Push Barman To Open Old Wounds,Belle & Sebastian,9,Belle & Sebastian,2005-05-24,2017-11-25T16:16:39Z,269533,False,,,,,,,4f264f9e1081c7f4448fb6ae8c8f70b0
@@ -510,8 +510,8 @@ I Pity the Poor Immigrant,John Wesley Harding,Bob Dylan,9,Bob Dylan,1967-12-27,2
 The Wicked Messenger,John Wesley Harding,Bob Dylan,10,Bob Dylan,1967-12-27,2017-11-25T16:53:29Z,122200,False,,,,,,,a33846c40ddcae2aa8a3a7cf23129671
 Down Along the Cove,John Wesley Harding,Bob Dylan,11,Bob Dylan,1967-12-27,2017-11-25T16:53:29Z,141240,False,,,,,,,bda471e7a4652b4dfa5a2400a7f1c421
 I'll Be Your Baby Tonight,John Wesley Harding,Bob Dylan,12,Bob Dylan,1967-12-27,2017-11-25T16:53:29Z,159360,False,,,,,,,272709074827a6f145934cba601fa755
-Too Much of Nothing,The Basement Tapes,Bob Dylan,1,Bob Dylan,1975-06-26,2017-10-01T23:31:39Z,184213,False,,,,,,,9aeb9ea2e824d9d44c44d29fc8a36947
 Odds and Ends,The Basement Tapes,Bob Dylan,1,Bob Dylan,1975-06-26,2017-10-01T23:31:39Z,107360,False,,,,,,,5677e4f5958327e658065b6cdd3542b1
+Too Much of Nothing,The Basement Tapes,Bob Dylan,1,Bob Dylan,1975-06-26,2017-10-01T23:31:39Z,184213,False,,,,,,,9aeb9ea2e824d9d44c44d29fc8a36947
 Orange Juice Blues,The Basement Tapes,Bob Dylan,2,Bob Dylan,1975-06-26,2017-10-01T23:31:39Z,219066,False,,,,,,,b02bb8e2035ceb19d3d1c9f54578db90
 Yea! Heavy And A Bottle Of Bread,The Basement Tapes,Bob Dylan,2,Bob Dylan,1975-06-26,2017-10-01T23:31:39Z,135093,False,,,,,,,60ef44322bdc21b3543cbce94a66c5c8
 Million Dollar Bash,The Basement Tapes,Bob Dylan,3,Bob Dylan,1975-06-26,2017-10-01T23:31:39Z,151120,False,,,,,,,c5bd3b2c8bab361d60b71cbb4eb46fb7
@@ -1734,7 +1734,7 @@ Free Your Mind and Your Ass Will Follow,Free Your Mind...,Funkadelic,1,Funkadeli
 "Friday Night, August 14th",Free Your Mind...,Funkadelic,2,Funkadelic,1970-07-20,2017-11-25T17:28:46Z,323826,False,,,,,,,3c5e3102cfe017133da3e3d8cb4dd79f
 Funky Dollar Bill,Free Your Mind...,Funkadelic,3,Funkadelic,1970-07-20,2017-11-25T17:28:46Z,196946,False,,,,,,,54e856b6f6e9ab5f22a2fbb00c971b10
 I Wanna Know If It's Good to You,Free Your Mind...,Funkadelic,4,Funkadelic,1970-07-20,2017-11-25T17:28:46Z,361533,False,,,,,,,416dab64dc6528770f448479365ee7f2
-Some More,Free Your Mind...,Funkadelic,5,Funkadelic,1970-07-20,2017-11-25T17:28:46Z,179066,False,,,,,,,273cbe9ef74db6dbfaef8f945214eb81
+Some More,Free Your Mind...,Funkadelic,5,Funkadelic,1970-07-01,2020-04-07T15:32:50Z,179066,False,,,,,,,273cbe9ef74db6dbfaef8f945214eb81
 Eulogy and Light,Free Your Mind...,Funkadelic,6,Funkadelic,1970-07-20,2017-11-25T17:28:46Z,215773,False,,,,,,,dcb9abf9553ebe3780c5f9ca314307c3
 "Fish, Chips and Sweat",Free Your Mind...,Funkadelic,7,Funkadelic,1970-07-20,2017-11-25T17:28:46Z,203186,False,,,,,,,697dedea256005acd791764087ba7225
 Free Your Mind Radio Advert,Free Your Mind...,Funkadelic,8,Funkadelic,1970-07-20,2017-11-25T17:28:46Z,56760,False,,,,,,,70bfa64fa446d2ad592b4fe7051e40c8
@@ -1755,6 +1755,7 @@ Open Our Eyes - 1969 Version,Funkadelic,Funkadelic,12,Funkadelic,1970-05-11,2017
 Quality and Satisfy - 45 Version,Funkadelic,Funkadelic,13,Funkadelic,1970-05-11,2017-11-25T17:28:45Z,182960,False,,,,,,,2be40b76a525eae98ad30755be42e274
 Music For My Mother - Instrumental 45 Version,Funkadelic,Funkadelic,14,Funkadelic,1970-05-11,2017-11-25T17:28:45Z,374386,False,,,,,,,ff16fe7090035031d33be0bacca64943
 Maggot Brain,Maggot Brain,Funkadelic,1,Funkadelic,1971-07-12,2017-11-25T17:28:48Z,621106,False,,,,,,,abf677f9c39cd05ac555f958f0bbb20f
+Can You Get to That,Maggot Brain,Funkadelic,2,Funkadelic,1971-07-12,2020-04-07T17:45:07Z,171560,False,,,,,,,87916ef32cc938f65fa14f7b01c3153b
 Can You Get To That,Maggot Brain,Funkadelic,2,Funkadelic,1971-07-12,2017-11-25T17:28:48Z,171560,False,,,,,,,848e004300929fd30601268b1793968d
 Hit It and Quit It,Maggot Brain,Funkadelic,3,Funkadelic,1971-07-12,2017-11-25T17:28:48Z,231906,False,,,,,,,9d8efe4ac16a347aaf2205ece71ff9ac
 "You and Your Folks, Me and My Folks",Maggot Brain,Funkadelic,4,Funkadelic,1971-07-12,2017-11-25T17:28:48Z,218013,False,,,,,,,35b6ffa4ea3550e79ff5eb656053da53
@@ -1762,7 +1763,7 @@ Super Stupid,Maggot Brain,Funkadelic,5,Funkadelic,1971-07-12,2017-11-25T17:28:48
 Back In Our Minds,Maggot Brain,Funkadelic,6,Funkadelic,1971-07-12,2017-11-25T17:28:48Z,160653,False,,,,,,,8e4fa8b4feb95577f90f15d78b5dffb3
 Wars of Armageddon,Maggot Brain,Funkadelic,7,Funkadelic,1971-07-12,2017-11-25T17:28:48Z,587786,False,,,,,,,8f96a9d5b77df24158eb203d598e9c13
 Whole Lot of BS - 1972 Version,Maggot Brain,Funkadelic,8,Funkadelic,1971-07-12,2017-11-25T17:28:48Z,133360,False,,,,,,,03d3e3804aad4ee650e8d093463f3c60
-I Miss My Baby - 1972 Version,Maggot Brain,Funkadelic,9,Funkadelic,1971-07-12,2017-11-25T17:28:48Z,305120,False,,,,,,,b36a64ab07c869242a2fa061df0342b0
+I Miss My Baby - 1972 Version,Maggot Brain,Funkadelic,9,Funkadelic,1971-07-12,2020-04-07T18:14:34Z,305120,False,,,,,,,b36a64ab07c869242a2fa061df0342b0
 Maggot Brain - Alternate Mix,Maggot Brain,Funkadelic,10,Funkadelic,1971-07-12,2017-11-25T17:28:48Z,575960,False,,,,,,,092e26a0d308720e8c91d4e922f37c97
 Liquid Swords,Liquid Swords,GZA,1,GZA,1995-01-01,2017-07-15T13:42:05Z,270800,True,,,,,,,8d199a2519c8fc1a6188e5b913bd3a60
 Living In The World Today,Liquid Swords,GZA,3,GZA,1995-01-01,2017-07-15T13:42:05Z,263173,False,,,,,,,c33f94fcd78b15cd6a01cdf776c0514f
@@ -2256,11 +2257,11 @@ Doin' That Rag - 2013 Remaster,Aoxomoxoa (2013 Remaster),Grateful Dead,4,Gratefu
 "Monkey and the Engineer - Live at Family Dog at the Great Highway, San Francisco, CA, February 4, 1970","Download Series: Family Dog at the Great Highway, San Francisco, CA 7/4/70 (Live)",Grateful Dead,11,Grateful Dead,2006,2018-05-21T12:53:37Z,165666,False,,,,,,,45d2179c8e775f7c357e157b724cf048
 "Good Lovin' - Live at Family Dog at the Great Highway, San Francisco, CA, February 4, 1970","Download Series: Family Dog at the Great Highway, San Francisco, CA 7/4/70 (Live)",Grateful Dead,12,Grateful Dead,2006,2018-05-21T12:53:37Z,908173,False,,,,,,,e753d52540b8fe13e356faeee977a7b6
 "Promised Land - Live at the Lyceum, London, England 5/23/1972","Europe '72 Vol. 19: Lyceum Theatre, London, England 5/23/72 (Live)",Grateful Dead,1,Grateful Dead,2011-09-20,2018-07-06T12:54:57Z,200840,False,,,,,,,b4d9b654872f75d8138923d7580ebc7b
-"Sitting on Top of the World - Live at Lyceum, London, England 5/23/1972","Europe '72 Vol. 19: Lyceum Theatre, London, England 5/23/72 (Live)",Grateful Dead,1,Grateful Dead,2011-09-20,2018-07-06T12:54:57Z,200226,False,,,,,,,8c9f00abbb547afb14dd25797e79f1df
 "He's Gone - Live at Lyceum, London, England 5/23/1972","Europe '72 Vol. 19: Lyceum Theatre, London, England 5/23/72 (Live)",Grateful Dead,1,Grateful Dead,2011-09-20,2018-07-06T12:54:57Z,533000,False,,,,,,,98bb7024f0e5a100f86949c52ff510c1
-"Sugaree - Live at Lyceum, London, England 5/23/1972","Europe '72 Vol. 19: Lyceum Theatre, London, England 5/23/72 (Live)",Grateful Dead,2,Grateful Dead,2011-09-20,2018-07-06T12:54:57Z,435973,False,,,,,,,841e8bf073eefcd6d478b1f3bae3147b
+"Sitting on Top of the World - Live at Lyceum, London, England 5/23/1972","Europe '72 Vol. 19: Lyceum Theatre, London, England 5/23/72 (Live)",Grateful Dead,1,Grateful Dead,2011-09-20,2018-07-06T12:54:57Z,200226,False,,,,,,,8c9f00abbb547afb14dd25797e79f1df
 "Rockin' Pneumonia and the Boogie Woogie Flu - Live at Lyceum, London, England 5/23/1972","Europe '72 Vol. 19: Lyceum Theatre, London, England 5/23/72 (Live)",Grateful Dead,2,Grateful Dead,2011-09-20,2018-07-06T12:54:57Z,312800,False,,,,,,,778dc6312e641099af448d6496b1b95c
 "Sugar Magnolia - Live at Lyceum, London, England 5/23/1972","Europe '72 Vol. 19: Lyceum Theatre, London, England 5/23/72 (Live)",Grateful Dead,2,Grateful Dead,2011-09-20,2018-07-06T12:54:57Z,419613,False,,,,,,,f2c1feb5d97a1b2268e3df712b279f13
+"Sugaree - Live at Lyceum, London, England 5/23/1972","Europe '72 Vol. 19: Lyceum Theatre, London, England 5/23/72 (Live)",Grateful Dead,2,Grateful Dead,2011-09-20,2018-07-06T12:54:57Z,435973,False,,,,,,,841e8bf073eefcd6d478b1f3bae3147b
 "Mr. Charlie - Live at Lyceum, London, England 5/23/1972","Europe '72 Vol. 19: Lyceum Theatre, London, England 5/23/72 (Live)",Grateful Dead,3,Grateful Dead,2011-09-20,2018-07-06T12:54:57Z,229160,False,,,,,,,f7f3edf0d89d2a348214cd5acf2b8922
 "Mexicali Blues - Live at Lyceum, London, England 5/23/1972","Europe '72 Vol. 19: Lyceum Theatre, London, England 5/23/72 (Live)",Grateful Dead,3,Grateful Dead,2011-09-20,2018-07-06T12:54:57Z,210880,False,,,,,,,7c0b5a0c91693e4e77cbfed45be9ee14
 "Comes a Time - Lyceum, London, England 5/23/1972","Europe '72 Vol. 19: Lyceum Theatre, London, England 5/23/72 (Live)",Grateful Dead,3,Grateful Dead,2011-09-20,2018-07-06T12:54:57Z,404573,False,,,,,,,fc91f01e6e080ad497e129f9c457ec38
@@ -2274,8 +2275,8 @@ Doin' That Rag - 2013 Remaster,Aoxomoxoa (2013 Remaster),Grateful Dead,4,Gratefu
 "Hey Bo Diddley - Live at Lyceum, London, England 5/23/1972","Europe '72 Vol. 19: Lyceum Theatre, London, England 5/23/72 (Live)",Grateful Dead,6,Grateful Dead,2011-09-20,2018-07-06T12:54:57Z,270600,False,,,,,,,5f22b81fbabf0d6e4e22e7b2636fb037
 "Ramble on Rose - Live at Lyceum, London, England 5/23/1972","Europe '72 Vol. 19: Lyceum Theatre, London, England 5/23/72 (Live)",Grateful Dead,6,Grateful Dead,2011-09-20,2018-07-06T12:54:57Z,441600,False,,,,,,,01718cb27452488838df49ee7d6b538c
 "Jack Straw - Live at Lyceum, London, England 5/23/1972","Europe '72 Vol. 19: Lyceum Theatre, London, England 5/23/72 (Live)",Grateful Dead,7,Grateful Dead,2011-09-20,2018-07-06T12:54:57Z,293173,False,,,,,,,273b7a3e095c32d03ac9b7d7dae8b962
-"Dark Star - Live at Lyceum, London, England 5/23/1972","Europe '72 Vol. 19: Lyceum Theatre, London, England 5/23/72 (Live)",Grateful Dead,7,Grateful Dead,2011-09-20,2018-07-06T12:54:57Z,1794053,False,,,,,,,e05e0505e1180a8c8816e92c92675b27
 "Not Fade Away - II; Live at the Lyceum, London, England 5/23/1972","Europe '72 Vol. 19: Lyceum Theatre, London, England 5/23/72 (Live)",Grateful Dead,7,Grateful Dead,2011-09-20,2018-07-06T12:54:57Z,186133,False,,,,,,,23a8d7140733c1191b1025a04b0335c8
+"Dark Star - Live at Lyceum, London, England 5/23/1972","Europe '72 Vol. 19: Lyceum Theatre, London, England 5/23/72 (Live)",Grateful Dead,7,Grateful Dead,2011-09-20,2018-07-06T12:54:57Z,1794053,False,,,,,,,e05e0505e1180a8c8816e92c92675b27
 "China Cat Sunflower - Live at Lyceum, London, England 5/23/1972","Europe '72 Vol. 19: Lyceum Theatre, London, England 5/23/72 (Live)",Grateful Dead,8,Grateful Dead,2011-09-20,2018-07-06T12:54:57Z,305480,False,,,,,,,bbb30a940f1a870e6c58220605871a48
 "Morning Dew - Live at Lyceum, London, England 5/23/1972","Europe '72 Vol. 19: Lyceum Theatre, London, England 5/23/72 (Live)",Grateful Dead,8,Grateful Dead,2011-09-20,2018-07-06T12:54:57Z,694666,False,,,,,,,75236e4f2d740b5d6d67847d1d90b696
 "Uncle John's Band - Live at Lyceum, London, England 5/23/1972","Europe '72 Vol. 19: Lyceum Theatre, London, England 5/23/72 (Live)",Grateful Dead,8,Grateful Dead,2011-09-20,2018-07-06T12:54:57Z,413013,False,,,,,,,081e7e68582dd837e38729de7e843fd9
@@ -2980,8 +2981,8 @@ Abzug - 2009 Remastered Version,Trans Europe Express (2009 Remastered Version),K
 Franz Schubert - 2009 Remastered Version,Trans Europe Express (2009 Remastered Version),Kraftwerk,7,Kraftwerk,1977,2017-11-25T17:47:26Z,266253,False,,,,,,,4ac69d98a91651dc75ee9d42ed48b4c6
 Endless Endless - 2009 Remastered Version,Trans Europe Express (2009 Remastered Version),Kraftwerk,8,Kraftwerk,1977,2017-11-25T17:47:26Z,55333,False,,,,,,,c3e48e312f8b5ce761f6e1e06c2b6744
 Box of Rain,Day of the Dead,Kurt Vile and the Violators and J Mascis,8,Various Artists,2016-05-20,2018-08-07T17:02:53Z,330782,False,,,,,,,350e9fbd7d1597cc7a57aaa9097256c4
-Daft Punk Is Playing at My House,LCD Soundsystem,LCD Soundsystem,1,LCD Soundsystem,2005-01-24,2017-11-25T17:49:08Z,314556,False,,,,,,,ed4b014b8788373d14b6e86b4d8367d3
 Losing My Edge,LCD Soundsystem,LCD Soundsystem,1,LCD Soundsystem,2005-01-24,2017-11-25T17:49:08Z,473066,False,,,,,,,d5d0944f860c430f8134bf2b312fb0ed
+Daft Punk Is Playing at My House,LCD Soundsystem,LCD Soundsystem,1,LCD Soundsystem,2005-01-24,2017-11-25T17:49:08Z,314556,False,,,,,,,ed4b014b8788373d14b6e86b4d8367d3
 Too Much Love,LCD Soundsystem,LCD Soundsystem,2,LCD Soundsystem,2005-01-24,2017-11-25T17:49:08Z,342493,False,,,,,,,bd57100448af797cbfee5a638fdc0b90
 Beat Connection,LCD Soundsystem,LCD Soundsystem,2,LCD Soundsystem,2005-01-24,2017-11-25T17:49:08Z,487440,True,,,,,,,92b34a42d7e4fa1225272e19d8aba515
 Tribulations,LCD Soundsystem,LCD Soundsystem,3,LCD Soundsystem,2005-01-24,2017-11-25T17:49:08Z,299000,False,,,,,,,9177957cb23ca5b350e28e1e882c7106
@@ -3183,8 +3184,8 @@ Paper Planes,Kala,M.I.A.,11,M.I.A.,2007-01-01,2017-10-09T19:17:36Z,203760,False,
 Deep Fried Frenz,MM...FOOD,MF DOOM,5,MF DOOM,2004,2018-02-12T16:17:47Z,299626,False,,,,,,,4ad2de0a4c46b0779e8fb78eed11084b
 Rapp Snitch Knishes feat. Mr. Fantastik,MM...FOOD,MF DOOM,13,MF DOOM,2004,2017-10-17T20:13:59Z,172893,False,,,,,,,1d5bb6518fc20435d3f5d808a9fad17b
 Styrax Gum,Metal Fingers Presents: Special Herbs Vol. 3 & 4,MF DOOM,8,MF DOOM,2003-09-30,2018-02-05T19:08:09Z,152800,False,,,,,,,d711152a8b580b75360fad6493946a1c
-The Time We Faced Doom (Skit),Operation: Doomsday (Complete),MF DOOM,1,MF DOOM,2011-04-26,2017-11-26T01:53:50Z,124746,True,,,,,,,70ef0029fb9e89f196aba3c62d175177
 "Dead Bent - 12"" Version",Operation: Doomsday (Complete),MF DOOM,1,MF DOOM,2011-04-26,2017-11-26T01:53:50Z,196853,True,,,,,,,f7e52b9b2cb407e2ade2855ac9182de3
+The Time We Faced Doom (Skit),Operation: Doomsday (Complete),MF DOOM,1,MF DOOM,2011-04-26,2017-11-26T01:53:50Z,124746,True,,,,,,,70ef0029fb9e89f196aba3c62d175177
 "Gas Drawls - 12"" Version",Operation: Doomsday (Complete),MF DOOM,2,MF DOOM,2011-04-26,2017-11-26T01:53:50Z,238253,True,,,,,,,bdca42865169d08f93cfe37e69cc370f
 "Hey - 12"" Version",Operation: Doomsday (Complete),MF DOOM,3,MF DOOM,2011-04-26,2017-11-26T01:53:50Z,248160,True,,,,,,,73df1bb40a1556f3c76135b9c15296f7
 "Greenbacks - 12"" Version",Operation: Doomsday (Complete),MF DOOM,4,MF DOOM,2011-04-26,2017-11-26T01:53:50Z,237613,True,,,,,,,9dd9e19dbf789268eced068ff97c6231
@@ -3404,8 +3405,8 @@ The Little Blue Frog,The Complete Bitches Brew Sessions,Miles Davis,4,Miles Davi
 Yaphet,The Complete Bitches Brew Sessions,Miles Davis,5,Miles Davis,1970-04,2017-11-26T01:58:39Z,578933,False,,,,,,,8a0a24b7cc5438813f90b30fc7b15c9c
 Lonely Fire,The Complete Bitches Brew Sessions,Miles Davis,5,Miles Davis,1970-04,2017-11-26T01:58:39Z,1268533,False,,,,,,,b60ba77c0a86cf17f23e46467c2dabb0
 Double Image,The Complete Bitches Brew Sessions,Miles Davis,5,Miles Davis,1970-04,2017-11-26T01:58:39Z,352360,False,,,,,,,86e7f9b608566561b89026943fa058aa
-Corrado - previously unissued,The Complete Bitches Brew Sessions,Miles Davis,6,Miles Davis,1970-04,2017-11-26T01:58:39Z,791440,False,,,,,,,983bed4b798faff4d39a20310abaca25
 Guinnevere,The Complete Bitches Brew Sessions,Miles Davis,6,Miles Davis,1970-04,2017-11-26T01:58:39Z,1266773,False,,,,,,,a85f4da376473cb3bb94b85e39b34227
+Corrado - previously unissued,The Complete Bitches Brew Sessions,Miles Davis,6,Miles Davis,1970-04,2017-11-26T01:58:39Z,791440,False,,,,,,,983bed4b798faff4d39a20310abaca25
 Surrey With The Fringe On Top,Steamin' [Rudy Van Gelder edition],Miles Davis Quintet,1,Miles Davis,1961,2018-04-13T15:34:50Z,542586,False,,,,,,,132d70c762199797287717f0e517d34d
 The Maids of Cadiz,Sketches Of Spain 50th Anniversary (Legacy Edition),Miles Davis and Gil Evans,1,Miles Davis,1960-07-18,2017-11-26T01:59:12Z,226626,False,,,,,,,8e4938cd77d85859b21ee3d3cb8d3923
 Concierto de Aranjuez (Adagio) - Rehearsal,Sketches Of Spain 50th Anniversary (Legacy Edition),Miles Davis and Gil Evans,2,Miles Davis,1960-07-18,2017-11-26T01:59:12Z,441800,False,,,,,,,59e3cabe1341a50855be1fe317c69887
@@ -3863,8 +3864,8 @@ Chevy (Old To Begin) - [Alternate Mix],Brighten the Corners: Nicene Creedence Ed
 Starlings Of The Slipstream,Brighten the Corners: Nicene Creedence Ed.,Pavement,11,Pavement,1997,2017-11-26T02:12:38Z,188066,False,,,,,,,d5c673914f3e3a5de50e10c53bfd2790
 Fin,Brighten the Corners: Nicene Creedence Ed.,Pavement,12,Pavement,1997,2017-11-26T02:12:38Z,325080,False,,,,,,,dc3505b0b25553880d6fb41757c9f7e2
 Roll With The Wind (Roxy) - [Alternate Mix],Brighten the Corners: Nicene Creedence Ed.,Pavement,12,Pavement,1997,2017-11-26T02:12:38Z,202186,False,,,,,,,220e9feef2ad91b847bb209c73003516
-Oddity - (From “God Save The Clean“),Brighten the Corners: Nicene Creedence Ed.,Pavement,13,Pavement,1997,2017-11-26T02:12:38Z,179426,False,,,,,,,c22e4818cafae74d8ae83a40ac96dd1b
 And Then (The Hexx) - [Extended Version of B-side],Brighten the Corners: Nicene Creedence Ed.,Pavement,13,Pavement,1997,2017-11-26T02:12:38Z,422000,False,,,,,,,5e4c31491cc20d79673ffdc3034feae6
+Oddity - (From “God Save The Clean“),Brighten the Corners: Nicene Creedence Ed.,Pavement,13,Pavement,1997,2017-11-26T02:12:38Z,179426,False,,,,,,,c22e4818cafae74d8ae83a40ac96dd1b
 Beautiful As A Butterfly - (Unreleased Song),Brighten the Corners: Nicene Creedence Ed.,Pavement,14,Pavement,1997,2017-11-26T02:12:38Z,218453,False,,,,,,,6f92ddd69072aab5b9f8461fbd45efb8
 Type Slowly (Live) - [From “Tibetan Freedom Concert“],Brighten the Corners: Nicene Creedence Ed.,Pavement,14,Pavement,1997,2017-11-26T02:12:38Z,407520,False,,,,,,,4193beb702706edfa5244028c3c9280f
 Cataracts - (Unreleased Song),Brighten the Corners: Nicene Creedence Ed.,Pavement,15,Pavement,1997,2017-11-26T02:12:38Z,256360,False,,,,,,,1a63a19104d61b6e929aa898be85f065
@@ -4042,16 +4043,16 @@ Fight This Generation,Wowee Zowee: Sordid Sentinels Edition,Pavement,14,Pavement
 Kennel District,Wowee Zowee: Sordid Sentinels Edition,Pavement,15,Pavement,1995,2017-10-04T14:16:24Z,179613,False,,,,,,,462e4ef7533bd22188ae87b7a47ba151
 "Easily Fooled - (Live, Wireless JJJ Radio, Australia, July 7, 1994)",Wowee Zowee: Sordid Sentinels Edition,Pavement,16,Pavement,1995,2017-10-04T14:16:24Z,204946,False,,,,,,,6726147954a1475880e15572fecc0ec4
 Pueblo,Wowee Zowee: Sordid Sentinels Edition,Pavement,16,Pavement,1995,2017-10-04T14:16:24Z,205386,False,,,,,,,b32cf99fdbaae5fb01ee4a3fba676cd9
-Half A Canyon,Wowee Zowee: Sordid Sentinels Edition,Pavement,17,Pavement,1995,2017-10-04T14:16:24Z,370266,True,,,,,,,eb4eb7b648586d649d01941901b9a0b8
 "Heaven Is A Truck - (Live, Wireless JJJ Radio, Australia, July 7, 1994)",Wowee Zowee: Sordid Sentinels Edition,Pavement,17,Pavement,1995,2017-10-04T14:16:24Z,242973,False,,,,,,,d1443ef7d8e4490232682c194e371467
+Half A Canyon,Wowee Zowee: Sordid Sentinels Edition,Pavement,17,Pavement,1995,2017-10-04T14:16:24Z,370266,True,,,,,,,eb4eb7b648586d649d01941901b9a0b8
 Western Homes,Wowee Zowee: Sordid Sentinels Edition,Pavement,18,Pavement,1995,2017-10-04T14:16:24Z,111960,False,,,,,,,6d690ffd0238e88161cfcecac83865ac
 "Box Elder - (Live, Wireless JJJ Radio, Australia, July 7, 1994)",Wowee Zowee: Sordid Sentinels Edition,Pavement,18,Pavement,1995,2017-10-04T14:16:24Z,316266,True,,,,,,,e2fe96ddf3df041c29eb6d35f9c2057a
-No More Kings - (From Schoolhouse Rock! Rocks),Wowee Zowee: Sordid Sentinels Edition,Pavement,19,Pavement,1995,2017-10-04T14:16:24Z,263413,False,,,,,,,922f95482df6a9f95d5de0f2ab252bb0
 Sordid - (Wowee Zowee Session Outtake),Wowee Zowee: Sordid Sentinels Edition,Pavement,19,Pavement,1995,2017-10-04T14:16:24Z,28013,False,,,,,,,2ac45cbf3a481d54c39c40cc2c38e4f1
+No More Kings - (From Schoolhouse Rock! Rocks),Wowee Zowee: Sordid Sentinels Edition,Pavement,19,Pavement,1995,2017-10-04T14:16:24Z,263413,False,,,,,,,922f95482df6a9f95d5de0f2ab252bb0
 Brink Of The Clouds - (B-Side),Wowee Zowee: Sordid Sentinels Edition,Pavement,20,Pavement,1995,2017-10-04T14:16:24Z,145893,False,,,,,,,6462437a31093de2e90d611796717fde
 Painted Soldiers - (From 'Brain Candy'),Wowee Zowee: Sordid Sentinels Edition,Pavement,20,Pavement,1995,2017-10-04T14:16:24Z,174360,False,,,,,,,fc6a06b6c76600b1c95250a0fdfa4060
-False Skorpion - (B-Side),Wowee Zowee: Sordid Sentinels Edition,Pavement,21,Pavement,1995,2017-10-04T14:16:24Z,123146,False,,,,,,,13e22dcf2e1198539601b7c060ac3fec
 We Dance (Alternate Mix Wowee Zowee Session Outtake),Wowee Zowee: Sordid Sentinels Edition,Pavement,21,Pavement,1995,2017-10-04T14:16:24Z,182786,False,,,,,,,e04b9355cf2d809bbe7c51b796cdc2a8
+False Skorpion - (B-Side),Wowee Zowee: Sordid Sentinels Edition,Pavement,21,Pavement,1995,2017-10-04T14:16:24Z,123146,False,,,,,,,13e22dcf2e1198539601b7c060ac3fec
 Easily Fooled - (B-Side),Wowee Zowee: Sordid Sentinels Edition,Pavement,22,Pavement,1995,2017-10-04T14:16:24Z,185293,False,,,,,,,0bca47b31aeff7408fadf77df7286be3
 Kris Kraft - (B-Side),Wowee Zowee: Sordid Sentinels Edition,Pavement,23,Pavement,1995,2017-10-04T14:16:24Z,166533,False,,,,,,,827fa20561be42b9f3c4a0fd4b120e93
 Mussle Rock (Is A Horse In Transition) - (B-Side),Wowee Zowee: Sordid Sentinels Edition,Pavement,24,Pavement,1995,2017-10-04T14:16:24Z,206013,False,,,,,,,ed4f066ce7990bae993834153c5fa5e2
@@ -4198,9 +4199,9 @@ Ice Water,Only Built 4 Cuban Linx,Raekwon feat. Ghostface Killah & Cappadonna,10
 Glad to See You Go - 2017 Remaster,Leave Home (40th Anniversary Deluxe Edition),Ramones,1,Ramones,1977-01-10,2017-11-26T02:15:35Z,133986,False,,,,,,,254571750efd602ad2b4cb857a1145ae
 Glad to See You Go - Sundragon Rough Mix,Leave Home (40th Anniversary Deluxe Edition),Ramones,1,Ramones,1977-01-10,2017-11-26T02:15:35Z,134893,False,,,,,,,2e042c78d6a6e4fbdc3df4bbc56d56cc
 "I Don't Wanna Go Down to the Basement - Live at CBGB's, 4/2/77",Leave Home (40th Anniversary Deluxe Edition),Ramones,1,Ramones,1977-01-10,2017-11-26T02:15:35Z,114573,False,,,,,,,0053539c481f9828497fdffc3fac4bc7
-Gimme Gimme Shock Treatment - 2017 Remaster,Leave Home (40th Anniversary Deluxe Edition),Ramones,2,Ramones,1977-01-10,2017-11-26T02:15:35Z,104733,False,,,,,,,2faef34e0e1bdde6409e5f0b466537a8
 Gimme Gimme Shock Treatment - Sundragon Rough Mix,Leave Home (40th Anniversary Deluxe Edition),Ramones,2,Ramones,1977-01-10,2017-11-26T02:15:35Z,103626,False,,,,,,,8009fc17d7226847f3f4bcf3f453d9a6
 "Now I Wanna Sniff Some Glue - Live at CBGB's, 4/2/77",Leave Home (40th Anniversary Deluxe Edition),Ramones,2,Ramones,1977-01-10,2017-11-26T02:15:35Z,95600,False,,,,,,,aa89d7e72de2dbe7b97b3162674ae234
+Gimme Gimme Shock Treatment - 2017 Remaster,Leave Home (40th Anniversary Deluxe Edition),Ramones,2,Ramones,1977-01-10,2017-11-26T02:15:35Z,104733,False,,,,,,,2faef34e0e1bdde6409e5f0b466537a8
 I Remember You - 2017 Remaster,Leave Home (40th Anniversary Deluxe Edition),Ramones,3,Ramones,1977-01-10,2017-11-26T02:15:35Z,140973,False,,,,,,,95a3eb566e6b820935afc4ee18051e4b
 I Remember You - Sundragon Rough Mixes,Leave Home (40th Anniversary Deluxe Edition),Ramones,3,Ramones,1977-01-10,2017-11-26T02:15:35Z,143013,False,,,,,,,0a6fa97d7fee9373375e158629a2c49c
 "Blitzkrieg Bop - Live at CBGB's, 4/2/77",Leave Home (40th Anniversary Deluxe Edition),Ramones,3,Ramones,1977-01-10,2017-11-26T02:15:35Z,128600,False,,,,,,,2eb09234aa2781f61eb722794f8ca8a6
@@ -4213,8 +4214,8 @@ Carbona Not Glue - Sundragon Rough Mix,Leave Home (40th Anniversary Deluxe Editi
 Suzy Is a Headbanger - 2017 Remaster,Leave Home (40th Anniversary Deluxe Edition),Ramones,6,Ramones,1977-01-10,2017-11-26T02:15:35Z,134240,False,,,,,,,774eb7100a4843b23e1370a55efd321f
 Suzy Is a Headbanger - Sundragon Rough Mix,Leave Home (40th Anniversary Deluxe Edition),Ramones,6,Ramones,1977-01-10,2017-11-26T02:15:35Z,133493,False,,,,,,,584af801fbeaf81151b7aa3bb64fa4d0
 "Teenage Lobotomy - Live at CBGB's, 4/2/77",Leave Home (40th Anniversary Deluxe Edition),Ramones,6,Ramones,1977-01-10,2017-11-26T02:15:35Z,125226,False,,,,,,,61d6eaf420d3f7387ab66bd74fcb42dc
-Pinhead - 2017 Remaster,Leave Home (40th Anniversary Deluxe Edition),Ramones,7,Ramones,1977-01-10,2017-11-26T02:15:35Z,163933,False,,,,,,,6ba679dfc9ae29acec4ab4324ccc4e93
 "53rd & 3rd - Live at CBGB's, 4/2/77",Leave Home (40th Anniversary Deluxe Edition),Ramones,7,Ramones,1977-01-10,2017-11-26T02:15:35Z,130266,False,,,,,,,cc057542b9b0018135187882e7875d63
+Pinhead - 2017 Remaster,Leave Home (40th Anniversary Deluxe Edition),Ramones,7,Ramones,1977-01-10,2017-11-26T02:15:35Z,163933,False,,,,,,,6ba679dfc9ae29acec4ab4324ccc4e93
 Pinhead - Sundragon Rough Mix,Leave Home (40th Anniversary Deluxe Edition),Ramones,7,Ramones,1977-01-10,2017-11-26T02:15:35Z,149266,False,,,,,,,7df9b679d3deeac5f0cbf124f81d9729
 Now I Wanna Be a Good Boy - 2017 Remaster,Leave Home (40th Anniversary Deluxe Edition),Ramones,8,Ramones,1977-01-10,2017-11-26T02:15:35Z,136733,False,,,,,,,da7364fb8dcae481a35b4138434947af
 Now I Wanna Be a Good Boy - Sundragon Rough Mix,Leave Home (40th Anniversary Deluxe Edition),Ramones,8,Ramones,1977-01-10,2017-11-26T02:15:35Z,136373,False,,,,,,,dd9f9ecee8b355c14d1bc5cdcfd9696d
@@ -4223,16 +4224,16 @@ Swallow My Pride - 2017 Remaster,Leave Home (40th Anniversary Deluxe Edition),Ra
 Swallow My Pride - Sundragon Rough Mix,Leave Home (40th Anniversary Deluxe Edition),Ramones,9,Ramones,1977-01-10,2017-11-26T02:15:35Z,129693,False,,,,,,,76c163df49894e510bb02fef12bc3858
 "Sheena Is a Punk Rocker - Live at CBGB's, 4/2/77",Leave Home (40th Anniversary Deluxe Edition),Ramones,9,Ramones,1977-01-10,2017-11-26T02:15:35Z,157760,False,,,,,,,1a0fc02b611fdb6bc8c27a302a44680d
 "Let's Dance - Live at CBGB's, 4/2/77",Leave Home (40th Anniversary Deluxe Edition),Ramones,10,Ramones,1977-01-10,2017-11-26T02:15:35Z,123040,False,,,,,,,38616783c800ddb9bb974de216a4a3a3
-What's Your Game - 2017 Remaster,Leave Home (40th Anniversary Deluxe Edition),Ramones,10,Ramones,1977-01-10,2017-11-26T02:15:35Z,161813,False,,,,,,,d5fe45baef2b28c7a3f3168be6c2f9a8
 What's Your Game - Sundragon Rough Mix,Leave Home (40th Anniversary Deluxe Edition),Ramones,10,Ramones,1977-01-10,2017-11-26T02:15:35Z,157600,False,,,,,,,064ec0b30071267dfad6a90e3d4eaab7
+What's Your Game - 2017 Remaster,Leave Home (40th Anniversary Deluxe Edition),Ramones,10,Ramones,1977-01-10,2017-11-26T02:15:35Z,161813,False,,,,,,,d5fe45baef2b28c7a3f3168be6c2f9a8
 California Sun - Sundragon Rough Mix,Leave Home (40th Anniversary Deluxe Edition),Ramones,11,Ramones,1977-01-10,2017-11-26T02:15:35Z,122320,False,,,,,,,2e2f63b95e44edc3e700cdb891847de6
 "Babysitter - Live at CBGB's, 4/2/77",Leave Home (40th Anniversary Deluxe Edition),Ramones,11,Ramones,1977-01-10,2017-11-26T02:15:35Z,171626,False,,,,,,,b052f359400ee1cf6b52d6ca6d42e9c5
 California Sun - 2017 Remaster,Leave Home (40th Anniversary Deluxe Edition),Ramones,11,Ramones,1977-01-10,2017-11-26T02:15:35Z,127746,False,,,,,,,67d5c15bfe9efd22c10840791a63d641
 Commando - 2017 Remaster,Leave Home (40th Anniversary Deluxe Edition),Ramones,12,Ramones,1977-01-10,2017-11-26T02:15:35Z,113640,False,,,,,,,95311d6e3c205a0d1e8e74a423d2ab62
 Commando - Sundragon Rough Mix,Leave Home (40th Anniversary Deluxe Edition),Ramones,12,Ramones,1977-01-10,2017-11-26T02:15:35Z,115506,False,,,,,,,10616a36d35e2b1abbd54b729ec84de1
 "Havana Affair - Live at CBGB's, 4/2/77",Leave Home (40th Anniversary Deluxe Edition),Ramones,12,Ramones,1977-01-10,2017-11-26T02:15:35Z,111253,False,,,,,,,f559c0e8d6a053988512389788c208f8
-You're Gonna Kill That Girl - 2017 Remaster,Leave Home (40th Anniversary Deluxe Edition),Ramones,13,Ramones,1977-01-10,2017-11-26T02:15:35Z,164013,False,,,,,,,9c16899f32894dd692f1a90be5c46de4
 You're Gonna Kill That Girl - Sundragon Rough Mix,Leave Home (40th Anniversary Deluxe Edition),Ramones,13,Ramones,1977-01-10,2017-11-26T02:15:35Z,162200,False,,,,,,,787d421eba623f8e18fef80956c643a7
+You're Gonna Kill That Girl - 2017 Remaster,Leave Home (40th Anniversary Deluxe Edition),Ramones,13,Ramones,1977-01-10,2017-11-26T02:15:35Z,164013,False,,,,,,,9c16899f32894dd692f1a90be5c46de4
 "Listen to My Heart - Live at CBGB's, 4/2/77",Leave Home (40th Anniversary Deluxe Edition),Ramones,13,Ramones,1977-01-10,2017-11-26T02:15:35Z,106400,False,,,,,,,69544a6db776f414d2ca802c03df7c46
 You Should Have Never Opened That Door - 2017 Remaster,Leave Home (40th Anniversary Deluxe Edition),Ramones,14,Ramones,1977-01-10,2017-11-26T02:15:35Z,118200,False,,,,,,,18e3235544a5339aa8fdd8df04a82f0c
 You Should Have Never Opened That Door - Sundragon Rough Mix,Leave Home (40th Anniversary Deluxe Edition),Ramones,14,Ramones,1977-01-10,2017-11-26T02:15:35Z,111626,False,,,,,,,96e3a1c3eb0b761688efe729b3111aa0
@@ -4303,8 +4304,8 @@ Havana Affair - 2016 Remaster,Ramones (40th Anniversary Deluxe Edition; 2016 Rem
 Chain Saw - Demo,Ramones (40th Anniversary Deluxe Edition; 2016 Remaster),Ramones,9,Ramones,1976-04-23,2017-11-26T02:15:19Z,121626,False,,,,,,,069e35dcc65e07d40c4c088f6d7550c1
 "Havana Affair - Live at the Roxy, Hollywood, CA 8/12/76; Set 1; 2016 Remaster",Ramones (40th Anniversary Deluxe Edition; 2016 Remaster),Ramones,9,Ramones,1976-04-23,2017-11-26T02:15:19Z,115120,False,,,,,,,b38ee78c8bb584071d250516e557a414
 You Should Have Never Opened That Door - Demo; 2016 Remaster,Ramones (40th Anniversary Deluxe Edition; 2016 Remaster),Ramones,10,Ramones,1976-04-23,2017-11-26T02:15:19Z,104186,False,,,,,,,4ed8cec47d95f5b935287b004e1eacd9
-"Listen to My Heart - Live at the Roxy, Hollywood, CA, 8/12/76; Set 1; 2016 Remaster",Ramones (40th Anniversary Deluxe Edition; 2016 Remaster),Ramones,10,Ramones,1976-04-23,2017-11-26T02:15:19Z,105946,False,,,,,,,4ac89826ea16691a1690b63802f8239b
 Listen to My Heart - 2016 Remaster,Ramones (40th Anniversary Deluxe Edition; 2016 Remaster),Ramones,10,Ramones,1976-04-23,2017-11-26T02:15:19Z,118653,False,,,,,,,d00d672c2cbd7f466982c83365faa292
+"Listen to My Heart - Live at the Roxy, Hollywood, CA, 8/12/76; Set 1; 2016 Remaster",Ramones (40th Anniversary Deluxe Edition; 2016 Remaster),Ramones,10,Ramones,1976-04-23,2017-11-26T02:15:19Z,105946,False,,,,,,,4ac89826ea16691a1690b63802f8239b
 53rd & 3rd - 2016 Remaster,Ramones (40th Anniversary Deluxe Edition; 2016 Remaster),Ramones,11,Ramones,1976-04-23,2017-11-26T02:15:19Z,141333,False,,,,,,,f7420bb7ff05780c20629053dce0cc11
 I Wanna Be Your Boyfriend - Demo,Ramones (40th Anniversary Deluxe Edition; 2016 Remaster),Ramones,11,Ramones,1976-04-23,2017-11-26T02:15:19Z,113880,False,,,,,,,8a27f01bce2fe47cd949687dac516b03
 "California Sun - Live at the Roxy, Hollywood, CA, 8/12/76; Set 1; 2016 Remaster",Ramones (40th Anniversary Deluxe Edition; 2016 Remaster),Ramones,11,Ramones,1976-04-23,2017-11-26T02:15:19Z,118506,False,,,,,,,ea62c12c36e700b4ab99a28f4e2c30f0
@@ -4315,8 +4316,8 @@ I Don't Wanna Walk Around with You - 2016 Remaster,Ramones (40th Anniversary Del
 "Today Your Love, Tomorrow the World - Demo",Ramones (40th Anniversary Deluxe Edition; 2016 Remaster),Ramones,13,Ramones,1976-04-23,2017-11-26T02:15:19Z,133346,False,,,,,,,008085b7c92cb6f46d8b94e6d06b2527
 "I Don't Wanna Walk Around with You - Live at the Roxy, Hollywood, CA, 8/12/76; Set 1; 2016 Remaster",Ramones (40th Anniversary Deluxe Edition; 2016 Remaster),Ramones,13,Ramones,1976-04-23,2017-11-26T02:15:19Z,91933,False,,,,,,,44a2eafb524ab0505b6bd14993911365
 I Don't Wanna Walk Around with You - Demo,Ramones (40th Anniversary Deluxe Edition; 2016 Remaster),Ramones,14,Ramones,1976-04-23,2017-11-26T02:15:19Z,115533,False,,,,,,,f7bbaf8dc4683efd398f85067fd29a86
-"Today Your Love, Tomorrow the World - 2016 Remaster",Ramones (40th Anniversary Deluxe Edition; 2016 Remaster),Ramones,14,Ramones,1976-04-23,2017-11-26T02:15:19Z,132666,False,,,,,,,dbacff6875e65e1fe38ba70f85acad45
 "Today Your Love, Tomorrow the World - Live at the Roxy, Hollywood, CA 8/12/76; Set 1; 2016 Remaster",Ramones (40th Anniversary Deluxe Edition; 2016 Remaster),Ramones,14,Ramones,1976-04-23,2017-11-26T02:15:19Z,129280,False,,,,,,,d643589449f5616a04f2a99856b21c5d
+"Today Your Love, Tomorrow the World - 2016 Remaster",Ramones (40th Anniversary Deluxe Edition; 2016 Remaster),Ramones,14,Ramones,1976-04-23,2017-11-26T02:15:19Z,132666,False,,,,,,,dbacff6875e65e1fe38ba70f85acad45
 Blitzkrieg Bop - 40th Anniversary Mono Mix,Ramones (40th Anniversary Deluxe Edition; 2016 Remaster),Ramones,15,Ramones,1976-04-23,2017-11-26T02:15:19Z,132520,False,,,,,,,b5a435d498142bc26a884ac0838af552
 Now I Wanna Sniff Some Glue - Demo; 2016 Remaster,Ramones (40th Anniversary Deluxe Edition; 2016 Remaster),Ramones,15,Ramones,1976-04-23,2017-11-26T02:15:19Z,105186,False,,,,,,,0ba143a76af342ea9af34791f2b01125
 "Now I Wanna Sniff Some Glue - Live at the Roxy, Hollywood, CA 8/12/76; Set 1; 2016 Remaster",Ramones (40th Anniversary Deluxe Edition; 2016 Remaster),Ramones,15,Ramones,1976-04-23,2017-11-26T02:15:19Z,88333,False,,,,,,,66ff62f74ca8f1b6f9d98fbe1d5215bd
@@ -4398,9 +4399,9 @@ It's a Long Way Back to Germany - Version 1; Dee Dee Vocal [Dee Dee Vocal],Rocke
 Ramona - Sweet Little Ramona Pop Mix,Rocket to Russia (40th Anniversary Deluxe Edition),Ramones,15,Ramones,1977-11-04,2017-11-26T02:15:26Z,187866,False,,,,,,,e9d6ab3fe8f20b6c8c181627bd6ef721
 Cretin Hop - Tracking Mix,Rocket to Russia (40th Anniversary Deluxe Edition),Ramones,15,Ramones,1977-11-04,2017-11-26T02:15:26Z,117266,False,,,,,,,269272a397ebf57327c54bdb083230af
 "Listen to My Heart - Live at Apollo Centre, Glasgow, Scotland, 12/19/1977",Rocket to Russia (40th Anniversary Deluxe Edition),Ramones,15,Ramones,1977-11-04,2017-11-26T02:15:26Z,98333,False,,,,,,,d01277c51fed9e1615b96d3ea1b5f17c
-Rockaway Beach - 40th Anniversary Tracking Mix,Rocket to Russia (40th Anniversary Deluxe Edition),Ramones,16,Ramones,1977-11-04,2017-11-26T02:15:26Z,127000,False,,,,,,,9837b74e893f9b7afa603c6911a5e65e
 Surfin' Bird - Alternate Vocal,Rocket to Russia (40th Anniversary Deluxe Edition),Ramones,16,Ramones,1977-11-04,2017-11-26T02:15:26Z,160800,False,,,,,,,0bdbe9da81c8d20ee91df49929d89469
 "California Sun - Live at Apollo Centre, Glasgow, Scotland, 12/19/1977",Rocket to Russia (40th Anniversary Deluxe Edition),Ramones,16,Ramones,1977-11-04,2017-11-26T02:15:26Z,108386,False,,,,,,,30dc64143e6a38fa6e114a1e6d9415e7
+Rockaway Beach - 40th Anniversary Tracking Mix,Rocket to Russia (40th Anniversary Deluxe Edition),Ramones,16,Ramones,1977-11-04,2017-11-26T02:15:26Z,127000,False,,,,,,,9837b74e893f9b7afa603c6911a5e65e
 "Here Today, Gone Tomorrow - Tracking Mix",Rocket to Russia (40th Anniversary Deluxe Edition),Ramones,17,Ramones,1977-11-04,2017-11-26T02:15:26Z,166520,False,,,,,,,ffceca0c7f6b8d2ee0fb487f23fda946
 Teenage Lobotomy - Backing Track,Rocket to Russia (40th Anniversary Deluxe Edition),Ramones,17,Ramones,1977-11-04,2017-11-26T02:15:26Z,126040,False,,,,,,,fdff30802e5bdf474006f12e2372a238
 "I Don't Wanna Walk Around with You - Live at Apollo Centre, Glasgow, Scotland, 12/19/1977",Rocket to Russia (40th Anniversary Deluxe Edition),Ramones,17,Ramones,1977-11-04,2017-11-26T02:15:26Z,84293,False,,,,,,,cffd6affecc444361368f28d595c07b7
@@ -4410,9 +4411,9 @@ We're a Happy Family,Rocket to Russia (40th Anniversary Deluxe Edition),Ramones,
 I Don't Care - Version 2; Tracking Mix,Rocket to Russia (40th Anniversary Deluxe Edition),Ramones,19,Ramones,1977-11-04,2017-11-26T02:15:26Z,111986,False,,,,,,,e3cb95539b0b532ba9d0a6310a025866
 Cretin Hop - Backing Track,Rocket to Russia (40th Anniversary Deluxe Edition),Ramones,19,Ramones,1977-11-04,2017-11-26T02:15:26Z,118386,False,,,,,,,5f12614d05aada141fa6019708183a10
 "Do You Wanna Dance? - Live at Apollo Centre, Glasgow, Scotland, 12/19/1977",Rocket to Russia (40th Anniversary Deluxe Edition),Ramones,19,Ramones,1977-11-04,2017-11-26T02:15:26Z,101853,False,,,,,,,7fd05ba2ea03dfb0d340fb6b8132c0ad
-"Chain Saw - Live at Apollo Centre, Glasgow, Scotland, 12/19/1977",Rocket to Russia (40th Anniversary Deluxe Edition),Ramones,20,Ramones,1977-11-04,2017-11-26T02:15:26Z,91866,False,,,,,,,b6a5c419f7eb5f856fe95d3b31a737dd
 It's a Long Way Back to Germany - Version 1; Tracking Mix,Rocket to Russia (40th Anniversary Deluxe Edition),Ramones,20,Ramones,1977-11-04,2017-11-26T02:15:26Z,143693,False,,,,,,,fcbba816d6a829f240f958dc8f47fc5e
 Needles and Pins - Demo,Rocket to Russia (40th Anniversary Deluxe Edition),Ramones,20,Ramones,1977-11-04,2017-11-26T02:15:26Z,164653,False,,,,,,,6d62b95f552de074bbe034240dac81e7
+"Chain Saw - Live at Apollo Centre, Glasgow, Scotland, 12/19/1977",Rocket to Russia (40th Anniversary Deluxe Edition),Ramones,20,Ramones,1977-11-04,2017-11-26T02:15:26Z,91866,False,,,,,,,b6a5c419f7eb5f856fe95d3b31a737dd
 We're a Happy Family - Tracking Mix,Rocket to Russia (40th Anniversary Deluxe Edition),Ramones,21,Ramones,1977-11-04,2017-11-26T02:15:26Z,158413,False,,,,,,,db6081b4ae693ee2958b901f42954561
 Babysitter - 2017 Remaster,Rocket to Russia (40th Anniversary Deluxe Edition),Ramones,21,Ramones,1977-11-04,2017-11-26T02:15:26Z,165666,False,,,,,,,2e4885e9062221422718a37aaa1127fb
 "Today Your Love, Tomorrow the World - Live at Apollo Centre, Glasgow, Scotland, 12/19/1977",Rocket to Russia (40th Anniversary Deluxe Edition),Ramones,21,Ramones,1977-11-04,2017-11-26T02:15:26Z,205293,False,,,,,,,22e9ac32c1b8795d63a0cef18f926f03
@@ -4425,8 +4426,8 @@ Joey RTR Radio Spot Promo,Rocket to Russia (40th Anniversary Deluxe Edition),Ram
 I Wanna Be Well - Tracking Mix,Rocket to Russia (40th Anniversary Deluxe Edition),Ramones,24,Ramones,1977-11-04,2017-11-26T02:15:26Z,150960,False,,,,,,,8d8fda318b4bd6cc4c5d8fafcc09a816
 We're a Happy Family - Joey & Dee Dee Dialogue,Rocket to Russia (40th Anniversary Deluxe Edition),Ramones,24,Ramones,1977-11-04,2017-11-26T02:15:26Z,72866,False,,,,,,,b62b1280bf1b59375d35cf802d4bca82
 "Now I Wanna Sniff Some Glue - Live at Apollo Centre, Glasgow, Scotland, 12/19/1977",Rocket to Russia (40th Anniversary Deluxe Edition),Ramones,24,Ramones,1977-11-04,2017-11-26T02:15:26Z,82613,False,,,,,,,975d99ee881d2bbea573c4884ddcffe1
-"We're a Happy Family - Live at Apollo Centre, Glasgow, Scotland, 12/19/1977",Rocket to Russia (40th Anniversary Deluxe Edition),Ramones,25,Ramones,1977-11-04,2017-11-26T02:15:26Z,146373,False,,,,,,,7be39f8f0d3df8dd4e0448ee6c6e61af
 I Can't Give You Anything - Tracking Mix,Rocket to Russia (40th Anniversary Deluxe Edition),Ramones,25,Ramones,1977-11-04,2017-11-26T02:15:26Z,133453,False,,,,,,,26443b683ea4cfa09821c28064206e6b
+"We're a Happy Family - Live at Apollo Centre, Glasgow, Scotland, 12/19/1977",Rocket to Russia (40th Anniversary Deluxe Edition),Ramones,25,Ramones,1977-11-04,2017-11-26T02:15:26Z,146373,False,,,,,,,7be39f8f0d3df8dd4e0448ee6c6e61af
 Ramona - Tracking Mix,Rocket to Russia (40th Anniversary Deluxe Edition),Ramones,26,Ramones,1977-11-04,2017-11-26T02:15:26Z,186893,False,,,,,,,974b69aba1e71c8c27a8fed156083685
 Surfin' Bird - Tracking Mix,Rocket to Russia (40th Anniversary Deluxe Edition),Ramones,27,Ramones,1977-11-04,2017-11-26T02:15:26Z,173800,False,,,,,,,e8399d1c010c9bfc665cfd51946b0857
 Why Is It Always This Way? - Tracking MIx; 40th Anniversary Mix; Basic Tracking Mix,Rocket to Russia (40th Anniversary Deluxe Edition),Ramones,28,Ramones,1977-11-04,2017-11-26T02:15:26Z,164466,False,,,,,,,860927ffaa3f0e3edc7e0000fb6cd043
@@ -4679,12 +4680,12 @@ Amateur Hour - [Live At Fiarfield Halls 09/11/75],Kimono My House,Sparks,13,Spar
 Ladies And Gentlemen - A Cappella,Ladies & Gentlemen We Are Floating In Space,Spiritualized,1,Spiritualized,1997-06-16,2017-07-15T13:44:48Z,153466,False,,,,,,,be5049b00fcbf005e4e23fe4720f7b39
 Ladies and Gentlemen We Are Floating in Space,Ladies & Gentlemen We Are Floating In Space,Spiritualized,1,Spiritualized,1997-06-16,2017-07-15T13:44:48Z,234053,False,,,,,,,b042da90450d3cbf075813eb2afc98f0
 Electricity - Demo,Ladies & Gentlemen We Are Floating In Space,Spiritualized,1,Spiritualized,1997-06-16,2017-07-15T13:44:48Z,214040,False,,,,,,,936ea882ca4a0420ca98a08ec381a091
-Ladies And Gentlemen - Demo,Ladies & Gentlemen We Are Floating In Space,Spiritualized,2,Spiritualized,1997-06-16,2017-07-15T13:44:48Z,174946,False,,,,,,,4c11672c541e035e2a3f384c7386fc16
 Come Together,Ladies & Gentlemen We Are Floating In Space,Spiritualized,2,Spiritualized,1997-06-16,2017-07-15T13:44:48Z,280573,False,,,,,,,90fa3eb8d69052c313e835b7220b9428
+Ladies And Gentlemen - Demo,Ladies & Gentlemen We Are Floating In Space,Spiritualized,2,Spiritualized,1997-06-16,2017-07-15T13:44:48Z,174946,False,,,,,,,4c11672c541e035e2a3f384c7386fc16
 Electricity - January 96,Ladies & Gentlemen We Are Floating In Space,Spiritualized,2,Spiritualized,1997-06-16,2017-07-15T13:44:48Z,307613,False,,,,,,,f90db5cb9c484e348e7d39e596542c0a
-I Think I'm In Love,Ladies & Gentlemen We Are Floating In Space,Spiritualized,3,Spiritualized,1997-06-16,2017-07-15T13:44:48Z,490066,False,,,,,,,1f3900333445ababde17dbbeb6041642
 Ladies And Gentlemen - Strings,Ladies & Gentlemen We Are Floating In Space,Spiritualized,3,Spiritualized,1997-06-16,2017-07-15T13:44:48Z,100440,False,,,,,,,94dc2dd3b675d4a6fec0ca185abc6dd4
 Electricity - June 96,Ladies & Gentlemen We Are Floating In Space,Spiritualized,3,Spiritualized,1997-06-16,2017-07-15T13:44:48Z,294946,False,,,,,,,82c6e8dfa765bfb60036513d6d7fb1af
+I Think I'm In Love,Ladies & Gentlemen We Are Floating In Space,Spiritualized,3,Spiritualized,1997-06-16,2017-07-15T13:44:48Z,490066,False,,,,,,,1f3900333445ababde17dbbeb6041642
 All Of My Thoughts,Ladies & Gentlemen We Are Floating In Space,Spiritualized,4,Spiritualized,1997-06-16,2017-07-15T13:44:48Z,276800,False,,,,,,,61aa3ce690bdb3a0ca08693a1d97c21c
 Ladies And Gentlemen - Kate Telephone Call,Ladies & Gentlemen We Are Floating In Space,Spiritualized,4,Spiritualized,1997-06-16,2017-07-15T13:44:48Z,81640,False,,,,,,,24c0bb103fd3d7d3f85f2e2359989fbe
 Home Of The Brave - Demo,Ladies & Gentlemen We Are Floating In Space,Spiritualized,4,Spiritualized,1997-06-16,2017-07-15T13:44:48Z,228333,False,,,,,,,8fa3ea63ec423c2e972ceed9d0eefdfe
@@ -5456,12 +5457,13 @@ Inoculated City - Remastered,Combat Rock (Remastered),The Clash,11,The Clash,198
 Death is a Star - Remastered,Combat Rock (Remastered),The Clash,12,The Clash,1982,2017-10-01T23:41:44Z,195840,False,,,,,,,261fef8ce3602e90606aa5208df6632f
 (White Man) in Hammersmith Palais,Hits Back,The Clash,4,The Clash,2013-08-26,2017-10-13T14:52:13Z,240560,False,,,,,,,2ef4dcc6c6a4804cd03aaa30ae724c7b
 London Calling,London Calling (Legacy Edition),The Clash,1,The Clash,1979,2017-06-19T21:04:59Z,199733,False,,,,,,,1c00e31f14c17764230a3d811e7f072f
+Brand New Cadillac,London Calling (Legacy Edition),The Clash,2,The Clash,1979,2017-06-19T21:04:59Z,128226,False,,,,,,,c34b1237f90ded0c8c107c7c09f97fdc
 Jimmy Jazz,London Calling (Legacy Edition),The Clash,3,The Clash,1979,2017-06-19T21:04:59Z,234933,False,,,,,,,7953a4ffe1deb1167bd16990cca51a38
 Paul's Tune,London Calling (Legacy Edition),The Clash,3,The Clash,1979,2017-06-19T21:04:59Z,152613,False,,,,,,,7866d985991cc7c1756ed8f93f4c8330
 Hateful,London Calling (Legacy Edition),The Clash,4,The Clash,1979,2017-06-19T21:04:59Z,164040,False,,,,,,,12acb1da1a2187159003906937d4ffa3
 Rudie Can't Fail,London Calling (Legacy Edition),The Clash,5,The Clash,1979,2017-06-19T21:04:59Z,209133,False,,,,,,,b3d05de7eeace4c0eee1395514d2a57d
-Spanish Bombs,London Calling (Legacy Edition),The Clash,6,The Clash,1979,2017-06-19T21:04:59Z,198866,False,,,,,,,9910ff382d0309f5b2ac3992aa1ac8a6
 "Koka Kola, Advertising & Cocaine",London Calling (Legacy Edition),The Clash,6,The Clash,1979,2017-06-19T21:04:59Z,117586,False,,,,,,,dd4ca1b1cd689ef230afae0f0c116fbb
+Spanish Bombs,London Calling (Legacy Edition),The Clash,6,The Clash,1979,2017-06-19T21:04:59Z,198866,False,,,,,,,9910ff382d0309f5b2ac3992aa1ac8a6
 The Right Profile,London Calling (Legacy Edition),The Clash,7,The Clash,1979,2017-06-19T21:04:59Z,234693,False,,,,,,,ed292051b11235c490a5c771fa30bc50
 Lost in the Supermarket,London Calling (Legacy Edition),The Clash,8,The Clash,1979,2017-06-19T21:04:59Z,227133,False,,,,,,,d8a33baf018c50a6d1f519c8e126d4e0
 Clampdown,London Calling (Legacy Edition),The Clash,9,The Clash,1979,2017-06-19T21:04:59Z,229133,False,,,,,,,3d84532269712e44838b2cdeafdb1ff0
@@ -5484,7 +5486,6 @@ Working and Waiting,London Calling (Legacy Edition),The Clash,17,The Clash,1979,
 Revolution Rock,London Calling (Legacy Edition),The Clash,18,The Clash,1979,2017-06-19T21:04:59Z,333400,False,,,,,,,031b26ed365b473a780946889fc56cb0
 Heart and Mind,London Calling (Legacy Edition),The Clash,18,The Clash,1979,2017-06-19T21:04:59Z,267506,False,,,,,,,d56a2a3fe0626ff04f08f1d4ecbd7e2b
 Train in Vain,London Calling (Legacy Edition),The Clash,19,The Clash,1979,2017-06-19T21:04:59Z,189600,False,,,,,,,e9884bb14b95fcdfa525ccf8d3173d37
-Brand New Cadillac,London Calling (Legacy Edition),The Clash,19,The Clash,1979,2017-06-19T21:04:59Z,128306,False,,,,,,,c34b1237f90ded0c8c107c7c09f97fdc
 Point That Thing,Anthology,The Clean,7,The Clean,2003-01-21,2017-10-17T15:28:01Z,327600,False,,,,,,,b892fb15da8ef10652c0954537c30b29
 Just Like Heaven,"Kiss Me, Kiss Me, Kiss Me",The Cure,8,The Cure,1987-05-25,2019-06-25T19:03:28Z,212000,False,,,,,,,e5508f074f29deb98b64ebf6dc1c2470
 Friday I'm in Love,Wish,The Cure,7,The Cure,1992-04-21,2018-03-23T13:44:47Z,214400,False,,,,,,,5f9115a196493555989056364100e10b
@@ -5509,12 +5510,12 @@ Mere Pseud Mag. Ed.,Hex Enduction Hour,The Fall,5,The Fall,1982-03-08,2017-11-26
 Jazzed up Punk Shit - Live,Hex Enduction Hour,The Fall,5,The Fall,1982-03-08,2017-11-26T02:37:36Z,250200,False,,,,,,,4382b911b0ae2c78203dd070ada02305
 Winter (Hostel-Maxi),Hex Enduction Hour,The Fall,6,The Fall,1982-03-08,2017-11-26T02:37:36Z,271360,False,,,,,,,98757e8abb223295313343dddedfea6f
 I'm in to C.B - Live - Stars on 45 Version,Hex Enduction Hour,The Fall,6,The Fall,1982-03-08,2017-11-26T02:37:36Z,193706,False,,,,,,,de8f58aea3eb9b0cf9b2a41ad2b573b0
-Winter 2,Hex Enduction Hour,The Fall,7,The Fall,1982-03-08,2017-11-26T02:37:36Z,272973,False,,,,,,,53bdbff93cb6241cb099d621d6758966
 And This Day - Live,Hex Enduction Hour,The Fall,7,The Fall,1982-03-08,2017-11-26T02:37:36Z,373360,False,,,,,,,fc64ee4b14bc9b529e92ac1b218c9520
+Winter 2,Hex Enduction Hour,The Fall,7,The Fall,1982-03-08,2017-11-26T02:37:36Z,272973,False,,,,,,,53bdbff93cb6241cb099d621d6758966
 Just Stop S'ways,Hex Enduction Hour,The Fall,8,The Fall,1982-03-08,2017-11-26T02:37:36Z,204000,False,,,,,,,623e46a1190f824fdc48e6bc0cef22c9
 Deer Park - Live,Hex Enduction Hour,The Fall,8,The Fall,1982-03-08,2017-11-26T02:37:36Z,574000,False,,,,,,,8ca1203e874b6117052f9ff73fcee29c
-Who Makes the Nazis?,Hex Enduction Hour,The Fall,9,The Fall,1982-03-08,2017-11-26T02:37:36Z,270266,False,,,,,,,ddcf4a2d16b820767e937b868dfc83d6
 And This Day - Live - Revisited,Hex Enduction Hour,The Fall,9,The Fall,1982-03-08,2017-11-26T02:37:36Z,324106,False,,,,,,,c8f5c748a43168cc3d32b1ce6dba3ddd
+Who Makes the Nazis?,Hex Enduction Hour,The Fall,9,The Fall,1982-03-08,2017-11-26T02:37:36Z,270266,False,,,,,,,ddcf4a2d16b820767e937b868dfc83d6
 Iceland,Hex Enduction Hour,The Fall,10,The Fall,1982-03-08,2017-11-26T02:37:36Z,402133,True,,,,,,,3a1ce3f6758bac090b448621191be7eb
 And This Day,Hex Enduction Hour,The Fall,11,The Fall,1982-03-08,2017-11-26T02:37:36Z,619026,True,,,,,,,55cc95c003aeaf68c2528160b7037c67
 Frightened,Live at the Witch Trials,The Fall,1,The Fall,1979-03-16,2017-11-26T02:37:26Z,302986,False,,,,,,,e338d4e5dd77af786bc56748143c53c4
@@ -5533,8 +5534,8 @@ Underground Medecin,Live at the Witch Trials,The Fall,7,The Fall,1979-03-16,2017
 No Xmas for John Key - Live - BBC Session,Live at the Witch Trials,The Fall,7,The Fall,1979-03-16,2017-11-26T02:37:26Z,254306,False,,,,,,,166d5bcbe727542ac6d24434832d0b94
 Two Steps Back,Live at the Witch Trials,The Fall,8,The Fall,1979-03-16,2017-11-26T02:37:26Z,303853,False,,,,,,,feac824ae9b9963f45d8376436ed8f16
 Like to Blow - Live - BBC Session,Live at the Witch Trials,The Fall,8,The Fall,1979-03-16,2017-11-26T02:37:26Z,107640,False,,,,,,,4f7e9e57e781b47bf0971ae20d852f9a
-Live at the Witch Trials,Live at the Witch Trials,The Fall,9,The Fall,1979-03-16,2017-11-26T02:37:26Z,51706,False,,,,,,,379dd340b6fef998eb3e908ba03a70ef
 Like to Blow - Live - Liverpool '78,Live at the Witch Trials,The Fall,9,The Fall,1979-03-16,2017-11-26T02:37:26Z,125906,False,,,,,,,059c735a17928900e263a83b7b226b36
+Live at the Witch Trials,Live at the Witch Trials,The Fall,9,The Fall,1979-03-16,2017-11-26T02:37:26Z,51706,False,,,,,,,379dd340b6fef998eb3e908ba03a70ef
 Futures and Pasts,Live at the Witch Trials,The Fall,10,The Fall,1979-03-16,2017-11-26T02:37:26Z,156853,False,,,,,,,41ca598750b5e95ab0468986f97eea63
 Stepping Out - Live - Liverpool '78,Live at the Witch Trials,The Fall,10,The Fall,1979-03-16,2017-11-26T02:37:26Z,189786,False,,,,,,,1121955798011023fa71527151918c37
 Music Scene,Live at the Witch Trials,The Fall,11,The Fall,1979-03-16,2017-11-26T02:37:26Z,480933,False,,,,,,,7c96d6306fdc50aa4fa539880dc1113b
@@ -5547,16 +5548,16 @@ Repetition,Live at the Witch Trials,The Fall,14,The Fall,1979-03-16,2017-11-26T0
 Various Times - Live - Liverpool '78,Live at the Witch Trials,The Fall,14,The Fall,1979-03-16,2017-11-26T02:37:26Z,299000,False,,,,,,,5238b26bf2ba9a3627f11217c5a7f6fd
 It's the New Thing,Live at the Witch Trials,The Fall,15,The Fall,1979-03-16,2017-11-26T02:37:26Z,207800,False,,,,,,,8e990de044e8fa3c06fd7f5b1b726b33
 Bingo-Master's Break-Out! - Live - Liverpool '78,Live at the Witch Trials,The Fall,15,The Fall,1979-03-16,2017-11-26T02:37:26Z,168986,False,,,,,,,1f9e0d286579e2a3196372de572f98d5
-Various Times,Live at the Witch Trials,The Fall,16,The Fall,1979-03-16,2017-11-26T02:37:26Z,399573,False,,,,,,,f308c9623c554e7e9a8b4d19b2768331
 Frightened - Live - Liverpool '78,Live at the Witch Trials,The Fall,16,The Fall,1979-03-16,2017-11-26T02:37:26Z,335280,False,,,,,,,20cf9f32b4943b1abd22052b0eccc3fc
+Various Times,Live at the Witch Trials,The Fall,16,The Fall,1979-03-16,2017-11-26T02:37:26Z,399573,False,,,,,,,f308c9623c554e7e9a8b4d19b2768331
 Dresden Dolls,Live at the Witch Trials,The Fall,17,The Fall,1979-03-16,2017-11-26T02:37:26Z,217946,False,,,,,,,479185a87ee59198bb5df408e6992965
 Industrial Estate - Live - Liverpool '78,Live at the Witch Trials,The Fall,17,The Fall,1979-03-16,2017-11-26T02:37:26Z,113973,False,,,,,,,f9efb866db46fd4988882c831e05aa9b
 Psycho Mafia - Live - Bonus Track Version,Live at the Witch Trials,The Fall,18,The Fall,1979-03-16,2017-11-26T02:37:26Z,140760,False,,,,,,,13a151df7f20a3721cbb3a8d81bdb2b4
 Psycho Mafia - Live - Liverpool '78,Live at the Witch Trials,The Fall,18,The Fall,1979-03-16,2017-11-26T02:37:26Z,181440,False,,,,,,,8ca528c0eaf9661f2c63c5063f14364d
 Industrial Estate - Live - Bonus Track Version,Live at the Witch Trials,The Fall,19,The Fall,1979-03-16,2017-11-26T02:37:26Z,107466,False,,,,,,,8254b04050b71815bd59d290b646fa5e
 Music Scene - Live - Liverpool '78,Live at the Witch Trials,The Fall,19,The Fall,1979-03-16,2017-11-26T02:37:26Z,566133,False,,,,,,,3953605eb6dba63ae7de48f6134dd738
-Stepping Out - Live,Live at the Witch Trials,The Fall,20,The Fall,1979-03-16,2017-11-26T02:37:26Z,165200,False,,,,,,,b9bacbde2d1485ecc83bcfa63b70c946
 Mother-Sister! - Live - Liverpool '78,Live at the Witch Trials,The Fall,20,The Fall,1979-03-16,2017-11-26T02:37:26Z,211680,False,,,,,,,bb0371b71176c038390bca7432327d2e
+Stepping Out - Live,Live at the Witch Trials,The Fall,20,The Fall,1979-03-16,2017-11-26T02:37:26Z,165200,False,,,,,,,b9bacbde2d1485ecc83bcfa63b70c946
 Last Orders - Live,Live at the Witch Trials,The Fall,21,The Fall,1979-03-16,2017-11-26T02:37:26Z,141186,False,,,,,,,d460989145fdaa12861e144f139b601b
 Joker Hysterical Face,Room to Live,The Fall,1,The Fall,1982-09-27,2017-11-26T02:37:42Z,287560,False,,,,,,,cd9f04027d9edd009169e2d4318e2b6e
 Marquis Cha Cha,Room to Live,The Fall,2,The Fall,1982-09-27,2017-11-26T02:37:42Z,271373,False,,,,,,,1ba5d594d9300872b621fa20e98ef36c
@@ -5637,20 +5638,20 @@ Bottle Rocket,"Thunder, Lightning, Strike",The Go! Team,9,The Go! Team,2004-10-0
 Huddle Formation,"Thunder, Lightning, Strike",The Go! Team,12,The Go! Team,2004-10-02,2019-09-13T17:44:11Z,191133,False,,,,,,,394b23c2ecec45d9b9f6325ecff650f8
 Don't Touch My Bikini,God Don’t Make No Junk,The Halo Benders,2,The Halo Benders,1994-06-28,2017-11-25T16:14:28Z,218573,False,,,,,,,9eb95b73785379e963bf9432e7186deb
 "Summer Breeze, Pts. 1 & 2",3 + 3,The Isley Brothers,8,The Isley Brothers,1973,2018-06-21T15:05:00Z,372000,False,,,,,,,628f4b50150000832976743226c7e2bc
-Then Comes Dudley,Goat,The Jesus Lizard,1,The Jesus Lizard,1991-02-21,2017-11-26T02:39:44Z,263226,False,,,,,,,d905981df7fa88cdba9483f25ef608c6
-Mouth Breather,Goat,The Jesus Lizard,2,The Jesus Lizard,1991-02-21,2017-11-26T02:39:44Z,136973,False,,,,,,,fb9c31aa36dbe1e505f9dff713dbdc3a
-Nub,Goat,The Jesus Lizard,3,The Jesus Lizard,1991-02-21,2017-11-26T02:39:44Z,150586,False,,,,,,,4cb32bb1b8ae81760346c1a75145334b
-Seasick,Goat,The Jesus Lizard,4,The Jesus Lizard,1991-02-21,2017-11-26T02:39:44Z,191253,False,,,,,,,6ccfb079466af794c6b114bab47906a3
-Monkey Trick,Goat,The Jesus Lizard,5,The Jesus Lizard,1991-02-21,2017-11-26T02:39:44Z,258360,False,,,,,,,44828f2d7ea715961e2486b2be881ac3
-Karpis,Goat,The Jesus Lizard,6,The Jesus Lizard,1991-02-21,2017-11-26T02:39:44Z,190240,False,,,,,,,52495f3472536cbbb731de07e0227f0d
-South Mouth,Goat,The Jesus Lizard,7,The Jesus Lizard,1991-02-21,2017-11-26T02:39:44Z,183200,False,,,,,,,037e3275bc9821397f951234753f6dba
-Lady Shoes,Goat,The Jesus Lizard,8,The Jesus Lizard,1991-02-21,2017-11-26T02:39:44Z,161880,False,,,,,,,1c226d2be93da30bef9cd74405c944ae
-Rodeo In Juliet,Goat,The Jesus Lizard,9,The Jesus Lizard,1991-02-21,2017-11-26T02:39:44Z,288800,False,,,,,,,74f9a6c08a20b8d9f571ac1643b8008b
-Sunday You Need Love - Single Version,Goat,The Jesus Lizard,10,The Jesus Lizard,1991-02-21,2017-11-26T02:39:44Z,165200,False,,,,,,,fa7b8c7129e8de7f35ceb79ab11537ae
-Pop Song - Single Version,Goat,The Jesus Lizard,11,The Jesus Lizard,1991-02-21,2017-11-26T02:39:44Z,135093,False,,,,,,,7e3512d41c81484e08bda05723662ce0
-Seasick - Single Version - Live,Goat,The Jesus Lizard,12,The Jesus Lizard,1991-02-21,2017-11-26T02:39:44Z,185840,False,,,,,,,3defab9ccb34c506d6786b7206b55178
-Lady Shoes - Single Version - Live,Goat,The Jesus Lizard,13,The Jesus Lizard,1991-02-21,2017-11-26T02:39:44Z,157440,False,,,,,,,32a9258684fd902d50cd04d5ea5e28ae
-Monkey Trick - Single Version - Live,Goat,The Jesus Lizard,14,The Jesus Lizard,1991-02-21,2017-11-26T02:39:44Z,272480,False,,,,,,,9d35e2c89f69d5c2b214fd0d5fedee8f
+Then Comes Dudley,Goat (Remaster / Reissue),The Jesus Lizard,1,The Jesus Lizard,1991-02-21,2017-11-26T02:39:44Z,263226,False,,,,,,,b1fa54c4948158bbaba0146a530acab4
+Mouth Breather,Goat (Remaster / Reissue),The Jesus Lizard,2,The Jesus Lizard,1991-02-21,2017-11-26T02:39:44Z,136973,False,,,,,,,f98397973cc2c04c95d9e5be17245984
+Nub,Goat (Remaster / Reissue),The Jesus Lizard,3,The Jesus Lizard,1991-02-21,2017-11-26T02:39:44Z,150586,False,,,,,,,44d457f4771e11fae90f5ca3ebf124be
+Seasick,Goat (Remaster / Reissue),The Jesus Lizard,4,The Jesus Lizard,1991-02-21,2017-11-26T02:39:44Z,191253,False,,,,,,,76f8cf2704cf07820e54f0101f01dcfd
+Monkey Trick,Goat (Remaster / Reissue),The Jesus Lizard,5,The Jesus Lizard,1991-02-21,2017-11-26T02:39:44Z,258360,False,,,,,,,af15b23a209accb0bdac1b18f358320f
+Karpis,Goat (Remaster / Reissue),The Jesus Lizard,6,The Jesus Lizard,1991-02-21,2017-11-26T02:39:44Z,190240,False,,,,,,,e8fc85a50dc49a63a20124b8e66c2940
+South Mouth,Goat (Remaster / Reissue),The Jesus Lizard,7,The Jesus Lizard,1991-02-21,2017-11-26T02:39:44Z,183200,False,,,,,,,2066e714ca27405da883ba3105eb5964
+Lady Shoes,Goat (Remaster / Reissue),The Jesus Lizard,8,The Jesus Lizard,1991-02-21,2017-11-26T02:39:44Z,161880,False,,,,,,,d6a982a1210bc694aa8f2d34b2634f33
+Rodeo In Juliet,Goat (Remaster / Reissue),The Jesus Lizard,9,The Jesus Lizard,1991-02-21,2017-11-26T02:39:44Z,288800,False,,,,,,,72fae0397eeed2ae5e0524a2553c2042
+Sunday You Need Love - Single Version,Goat (Remaster / Reissue),The Jesus Lizard,10,The Jesus Lizard,1991-02-21,2017-11-26T02:39:44Z,165200,False,,,,,,,217eeca31795d6957be0559d398b7feb
+Pop Song - Single Version,Goat (Remaster / Reissue),The Jesus Lizard,11,The Jesus Lizard,1991-02-21,2017-11-26T02:39:44Z,135093,False,,,,,,,64aefeab54d7f7cc4dbc0e9043395fe6
+Seasick - Single Version - Live,Goat (Remaster / Reissue),The Jesus Lizard,12,The Jesus Lizard,1991-02-21,2017-11-26T02:39:44Z,185840,False,,,,,,,5932d01eed9422334606a7ed7e1f1bd2
+Lady Shoes - Single Version - Live,Goat (Remaster / Reissue),The Jesus Lizard,13,The Jesus Lizard,1991-02-21,2017-11-26T02:39:44Z,157440,False,,,,,,,9fed6a4e9421b9546a8844a3414384fd
+Monkey Trick - Single Version - Live,Goat (Remaster / Reissue),The Jesus Lizard,14,The Jesus Lizard,1991-02-21,2017-11-26T02:39:44Z,272480,False,,,,,,,95930e442fb53c1c0223fcc80b45d88b
 One Evening,Head,The Jesus Lizard,1,The Jesus Lizard,1990,2017-11-26T02:39:48Z,181253,False,,,,,,,df7c771ed79801c1dd512a786b9df515
 S.D.B.J.,Head,The Jesus Lizard,2,The Jesus Lizard,1990,2017-11-26T02:39:48Z,147906,False,,,,,,,b00ee9d3886bf7f1b4fc64f258c2e561
 My Own Urine,Head,The Jesus Lizard,3,The Jesus Lizard,1990,2017-11-26T02:39:48Z,187813,False,,,,,,,6f9284050ae3483c3ce52510ed0a063c
@@ -5721,8 +5722,8 @@ Vegetable Man - Single Version,Psychocandy (Expanded Version),The Jesus and Mary
 Just Like Honey - Demo,Psychocandy (Expanded Version),The Jesus and Mary Chain,23,The Jesus and Mary Chain,1985-11-18,2017-11-25T17:41:47Z,177658,False,,,,,,,3e759421276d576993c59a97ba4ca98e
 Never Understand - Alternate Version,Psychocandy (Expanded Version),The Jesus and Mary Chain,26,The Jesus and Mary Chain,1985-11-18,2017-11-25T17:41:47Z,206106,False,,,,,,,6b784dd0d34a928a84335bd75335e06b
 Jesus Fuck,Psychocandy (Expanded Version),The Jesus and Mary Chain,27,The Jesus and Mary Chain,1985-11-18,2017-11-25T17:41:47Z,149916,True,,,,,,,713c6d8546ca5867ec2d6b2069f49a3b
-Victoria - Mono Mix,Arthur (Deluxe Edition),The Kinks,1,The Kinks,1969-10-10,2017-10-06T12:30:18Z,220053,False,,,,,,,8ef0408bd69e51627d2b7da329a69add
 Victoria - Stereo Mix,Arthur (Deluxe Edition),The Kinks,1,The Kinks,1969-10-10,2017-10-06T12:30:18Z,220280,False,,,,,,,37c2816d964282b64fb76b1bbdcce032
+Victoria - Mono Mix,Arthur (Deluxe Edition),The Kinks,1,The Kinks,1969-10-10,2017-10-06T12:30:18Z,220053,False,,,,,,,8ef0408bd69e51627d2b7da329a69add
 "Yes Sir, No Sir - Mono Mix",Arthur (Deluxe Edition),The Kinks,2,The Kinks,1969-10-10,2017-10-06T12:30:18Z,228000,False,,,,,,,40acd58ef0f3c9f4d7bc753cd9477529
 "Yes Sir, No Sir - Stereo Mix",Arthur (Deluxe Edition),The Kinks,2,The Kinks,1969-10-10,2017-10-06T12:30:18Z,226826,False,,,,,,,a66e32638a409999baac86709864a41c
 Some Mother's Son - Mono Mix,Arthur (Deluxe Edition),The Kinks,3,The Kinks,1969-10-10,2017-10-06T12:30:18Z,205373,False,,,,,,,a9e4d8d11451fe8cac69c18ca1dac2eb
@@ -5885,8 +5886,8 @@ Strangers - Stereo;2014 Remastered Version,"Lola vs. Powerman and the Moneygorou
 Lola - Instrumental Version;2014 Remastered Version,"Lola vs. Powerman and the Moneygoround, Pt. One + Percy",The Kinks,2,The Kinks,2014-10-20,2017-10-06T12:30:21Z,286253,False,,,,,,,9f0eddd05a7947ab141857bfb191b31e
 Denmark Street - 2014 Remaster,"Lola vs. Powerman and the Moneygoround, Pt. One + Percy",The Kinks,3,The Kinks,2014-10-20,2017-10-06T12:30:21Z,121520,False,,,,,,,9ed28e442e0547af91039cd2050954f8
 The Way Love Used to Be - Stereo;2014 Remastered Version,"Lola vs. Powerman and the Moneygoround, Pt. One + Percy",The Kinks,3,The Kinks,2014-10-20,2017-10-06T12:30:21Z,135133,False,,,,,,,ad61a1f21ab367bc2d4e12050d5c1cfe
-Completely - 2014 Remastered Version,"Lola vs. Powerman and the Moneygoround, Pt. One + Percy",The Kinks,4,The Kinks,2014-10-20,2017-10-06T12:30:21Z,221720,False,,,,,,,73bc6ae2236dac076ba4692ab2e2a1b1
 Get Back In Line - Stereo; 2014 Remastered Version,"Lola vs. Powerman and the Moneygoround, Pt. One + Percy",The Kinks,4,The Kinks,2014-10-20,2017-10-06T12:30:21Z,183853,False,,,,,,,af4fbb219cf935778c1b19f3ceaec3ae
+Completely - 2014 Remastered Version,"Lola vs. Powerman and the Moneygoround, Pt. One + Percy",The Kinks,4,The Kinks,2014-10-20,2017-10-06T12:30:21Z,221720,False,,,,,,,73bc6ae2236dac076ba4692ab2e2a1b1
 Running Round Town - 2014 Remastered Version,"Lola vs. Powerman and the Moneygoround, Pt. One + Percy",The Kinks,5,The Kinks,2014-10-20,2017-10-06T12:30:21Z,66040,False,,,,,,,9189fc5b1720256d97dea1c38285d3ce
 Lola - Coca Cola Version;2014 Remastered Version,"Lola vs. Powerman and the Moneygoround, Pt. One + Percy",The Kinks,5,The Kinks,2014-10-20,2017-10-06T12:30:21Z,242026,False,,,,,,,a8d0d9a9287c08840ece1e1d91127d58
 Top of the Pops - 2014 Remastered Version,"Lola vs. Powerman and the Moneygoround, Pt. One + Percy",The Kinks,6,The Kinks,2014-10-20,2017-10-06T12:30:21Z,222306,False,,,,,,,101414d53baf470589fa32a3c087ce6b
@@ -5942,8 +5943,8 @@ Two Sisters,Something Else (Deluxe Edition),The Kinks,3,The Kinks,1967-09-15,201
 Two Sisters - Stereo Mix,Something Else (Deluxe Edition),The Kinks,3,The Kinks,1967-09-15,2017-10-06T12:30:44Z,121653,False,,,,,,,8a099b0704ce3aeb73090ac74f959d24
 No Return - Mono Mix,Something Else (Deluxe Edition),The Kinks,4,The Kinks,1967-09-15,2017-10-06T12:30:44Z,122080,False,,,,,,,4ef45cd75cbc3e474bc8c7d5dce441d2
 No Return - Stereo Mix,Something Else (Deluxe Edition),The Kinks,4,The Kinks,1967-09-15,2017-10-06T12:30:44Z,119733,False,,,,,,,7ee433c4e5cb2ba26377f57a4003bfd9
-Harry Rag - Mono Mix,Something Else (Deluxe Edition),The Kinks,5,The Kinks,1967-09-15,2017-10-06T12:30:44Z,135653,False,,,,,,,2dc4ad1ca7dc8b0eb8ffdcd00911e266
 Harry Rag - Stereo Mix,Something Else (Deluxe Edition),The Kinks,5,The Kinks,1967-09-15,2017-10-06T12:30:44Z,134573,False,,,,,,,46df91eb7f5ce01e37ab0724447119b8
+Harry Rag - Mono Mix,Something Else (Deluxe Edition),The Kinks,5,The Kinks,1967-09-15,2017-10-06T12:30:44Z,135653,False,,,,,,,2dc4ad1ca7dc8b0eb8ffdcd00911e266
 Tin Soldier Man - Mono Mix,Something Else (Deluxe Edition),The Kinks,6,The Kinks,1967-09-15,2017-10-06T12:30:44Z,168920,False,,,,,,,fe46400729d75794de22991ce0f7f1a1
 Tin Soldier Man - Stereo Mix,Something Else (Deluxe Edition),The Kinks,6,The Kinks,1967-09-15,2017-10-06T12:30:44Z,167400,False,,,,,,,2ac70e248ea6c61d91296cd3ba4ab6a1
 Situation Vacant - Mono Mix,Something Else (Deluxe Edition),The Kinks,7,The Kinks,1967-09-15,2017-10-06T12:30:44Z,195160,False,,,,,,,26db1fd2cd80612b78cfe4966cc66920
@@ -5968,8 +5969,8 @@ Susannah's Still Alive - Mono Mix,Something Else (Deluxe Edition),The Kinks,16,T
 Sand On My Shoes - Stereo Mix,Something Else (Deluxe Edition),The Kinks,16,The Kinks,1967-09-15,2017-10-06T12:30:44Z,188053,False,,,,,,,6398173e715375a1e63acfc6a3abd7c9
 Autumn Almanac,Something Else (Deluxe Edition),The Kinks,17,The Kinks,1967-09-15,2017-10-06T12:30:44Z,183526,False,,,,,,,0ac0e66c719f7e59a48e9ddc32535e0c
 Afternoon Tea - Stereo Alternate Version,Something Else (Deluxe Edition),The Kinks,17,The Kinks,1967-09-15,2017-10-06T12:30:44Z,221413,False,,,,,,,b20ec9f3908dfc78396f240294d8a061
-Mr. Pleasant - Stereo Alternate Version,Something Else (Deluxe Edition),The Kinks,18,The Kinks,1967-09-15,2017-10-06T12:30:44Z,195080,False,,,,,,,31d12e1517235590137f072b607d5b3f
 Harry Rag - Mono Alternate Take,Something Else (Deluxe Edition),The Kinks,18,The Kinks,1967-09-15,2017-10-06T12:30:44Z,133480,False,,,,,,,d81c2e280a9099d2b055629885b28434
+Mr. Pleasant - Stereo Alternate Version,Something Else (Deluxe Edition),The Kinks,18,The Kinks,1967-09-15,2017-10-06T12:30:44Z,195080,False,,,,,,,31d12e1517235590137f072b607d5b3f
 David Watts - Mono Alternate Take,Something Else (Deluxe Edition),The Kinks,19,The Kinks,1967-09-15,2017-10-06T12:30:44Z,152293,False,,,,,,,414f0bffca47e350972111c9aba7185e
 Lazy Old Sun - Stereo Alternate Vocal Version,Something Else (Deluxe Edition),The Kinks,19,The Kinks,1967-09-15,2017-10-06T12:30:44Z,193240,False,,,,,,,7c75f49dd339ce2b13461859427a15e9
 Afternoon Tea - Canadian Mono Mix,Something Else (Deluxe Edition),The Kinks,20,The Kinks,1967-09-15,2017-10-06T12:30:44Z,197213,False,,,,,,,bb0a92b0472be38b8bbef9ee2c917ff9
@@ -5997,9 +5998,9 @@ Misty Water - Stereo Mix,The Kinks Are the Village Green Preservation Society (D
 Picture Book - Stereo Mix,The Kinks Are the Village Green Preservation Society (Deluxe Expanded Edition),The Kinks,3,The Kinks,1968-11-22,2017-10-06T12:30:42Z,156000,False,,,,,,,9890587a159cd8cb1af810565c32a4a8
 Picture Book - Mono Mix,The Kinks Are the Village Green Preservation Society (Deluxe Expanded Edition),The Kinks,3,The Kinks,1968-11-22,2017-10-06T12:30:42Z,155320,False,,,,,,,efa6952dafa7cc7c91233a72644a17e1
 Berkeley Mews - Stereo Mix,The Kinks Are the Village Green Preservation Society (Deluxe Expanded Edition),The Kinks,3,The Kinks,1968-11-22,2017-10-06T12:30:42Z,157653,False,,,,,,,e0d1f4207dcc59cf08e84361093cdb25
-Johnny Thunder - Stereo Mix,The Kinks Are the Village Green Preservation Society (Deluxe Expanded Edition),The Kinks,4,The Kinks,1968-11-22,2017-10-06T12:30:42Z,150106,False,,,,,,,29a6d0665b22eea87a8f909601e75b8b
 Johnny Thunder - Mono Mix,The Kinks Are the Village Green Preservation Society (Deluxe Expanded Edition),The Kinks,4,The Kinks,1968-11-22,2017-10-06T12:30:42Z,150586,False,,,,,,,dea9eaf86ef4f53f5888c9be3c94d364
 "Easy Come, There You Went - Stereo Mix",The Kinks Are the Village Green Preservation Society (Deluxe Expanded Edition),The Kinks,4,The Kinks,1968-11-22,2017-10-06T12:30:42Z,143320,False,,,,,,,4327c49d63aaf33fb92a3716b0c7ec73
+Johnny Thunder - Stereo Mix,The Kinks Are the Village Green Preservation Society (Deluxe Expanded Edition),The Kinks,4,The Kinks,1968-11-22,2017-10-06T12:30:42Z,150106,False,,,,,,,29a6d0665b22eea87a8f909601e75b8b
 Last of the Steam-Powered Trains - Mono Mix,The Kinks Are the Village Green Preservation Society (Deluxe Expanded Edition),The Kinks,5,The Kinks,1968-11-22,2017-10-06T12:30:42Z,250013,False,,,,,,,2f034ae21609c927df6e8756d6578774
 Last of the Steam-Powered Trains - Stereo Mix,The Kinks Are the Village Green Preservation Society (Deluxe Expanded Edition),The Kinks,5,The Kinks,1968-11-22,2017-10-06T12:30:42Z,250218,False,,,,,,,5c7155abc2bf72c3b1d8b2ce7527460b
 Polly - Stereo Mix,The Kinks Are the Village Green Preservation Society (Deluxe Expanded Edition),The Kinks,5,The Kinks,1968-11-22,2017-10-06T12:30:42Z,169360,False,,,,,,,4ba3406928a9c4dd23c1f6e98eab3205
@@ -6009,9 +6010,9 @@ Animal Farm - Alternate Stereo Mix,The Kinks Are the Village Green Preservation 
 Sitting By the Riverside - Stereo Mix,The Kinks Are the Village Green Preservation Society (Deluxe Expanded Edition),The Kinks,7,The Kinks,1968-11-22,2017-10-06T12:30:42Z,141813,False,,,,,,,6f2160686edb64f88ccb2ab3b7906c61
 Sitting By the Riverside - Mono Mix,The Kinks Are the Village Green Preservation Society (Deluxe Expanded Edition),The Kinks,7,The Kinks,1968-11-22,2017-10-06T12:30:42Z,142600,False,,,,,,,5a568692f4e656660a41bf83e11856d8
 Phenomenal Cat - Mono Instrumental Version,The Kinks Are the Village Green Preservation Society (Deluxe Expanded Edition),The Kinks,7,The Kinks,1968-11-22,2017-10-06T12:30:42Z,169453,False,,,,,,,f06c2de7224fddf3fc30a45db16f0308
-Johnny Thunder - Stereo Remix,The Kinks Are the Village Green Preservation Society (Deluxe Expanded Edition),The Kinks,8,The Kinks,1968-11-22,2017-10-06T12:30:42Z,153960,False,,,,,,,e6417e12dfc384647cfdb02b9fbd7d06
 Animal Farm - Stereo Mix,The Kinks Are the Village Green Preservation Society (Deluxe Expanded Edition),The Kinks,8,The Kinks,1968-11-22,2017-10-06T12:30:42Z,178506,False,,,,,,,786c1147b5c9dddf07e4a21733281710
 Animal Farm - Mono Mix,The Kinks Are the Village Green Preservation Society (Deluxe Expanded Edition),The Kinks,8,The Kinks,1968-11-22,2017-10-06T12:30:42Z,180506,False,,,,,,,9764c1e7d5eb3922d15e2deb420c7bfb
+Johnny Thunder - Stereo Remix,The Kinks Are the Village Green Preservation Society (Deluxe Expanded Edition),The Kinks,8,The Kinks,1968-11-22,2017-10-06T12:30:42Z,153960,False,,,,,,,e6417e12dfc384647cfdb02b9fbd7d06
 Did You See His Name - Mono Alternate Version,The Kinks Are the Village Green Preservation Society (Deluxe Expanded Edition),The Kinks,9,The Kinks,1968-11-22,2017-10-06T12:30:42Z,117746,False,,,,,,,cb30df17d0c365d5e84bd2a7904d2006
 Village Green - Stereo Mix,The Kinks Are the Village Green Preservation Society (Deluxe Expanded Edition),The Kinks,9,The Kinks,1968-11-22,2017-10-06T12:30:42Z,127160,False,,,,,,,0296849c1e1e065aafde6e06ffa66aec
 Village Green - Mono Mix,The Kinks Are the Village Green Preservation Society (Deluxe Expanded Edition),The Kinks,9,The Kinks,1968-11-22,2017-10-06T12:30:42Z,130853,False,,,,,,,c50abe7ba8029709a36e74c21c7ecdf3
@@ -6024,8 +6025,8 @@ Lavender Hill - Mono Mix,The Kinks Are the Village Green Preservation Society (D
 All of My Friends Were There - Stereo Mix,The Kinks Are the Village Green Preservation Society (Deluxe Expanded Edition),The Kinks,12,The Kinks,1968-11-22,2017-10-06T12:30:42Z,144493,False,,,,,,,6d0e471597aa3d2ffc08660fda74510c
 All of My Friends Were There - Mono Mix,The Kinks Are the Village Green Preservation Society (Deluxe Expanded Edition),The Kinks,12,The Kinks,1968-11-22,2017-10-06T12:30:42Z,144600,False,,,,,,,7001efa87fa31717f16c89ceb7633df8
 Rosemary Rose - Mono Mix,The Kinks Are the Village Green Preservation Society (Deluxe Expanded Edition),The Kinks,12,The Kinks,1968-11-22,2017-10-06T12:30:42Z,104173,False,,,,,,,b6a8fd46888fcde7a2bde90506f67a7c
-Wicked Annabella - Mono Mix,The Kinks Are the Village Green Preservation Society (Deluxe Expanded Edition),The Kinks,13,The Kinks,1968-11-22,2017-10-06T12:30:42Z,162813,False,,,,,,,56056cd49ad3531d54846b2d2891d996
 Wicked Annabella - Stereo Mix,The Kinks Are the Village Green Preservation Society (Deluxe Expanded Edition),The Kinks,13,The Kinks,1968-11-22,2017-10-06T12:30:42Z,161239,False,,,,,,,d491de909af376ae09f009cdb97a42cc
+Wicked Annabella - Mono Mix,The Kinks Are the Village Green Preservation Society (Deluxe Expanded Edition),The Kinks,13,The Kinks,1968-11-22,2017-10-06T12:30:42Z,162813,False,,,,,,,56056cd49ad3531d54846b2d2891d996
 Wonderboy,The Kinks Are the Village Green Preservation Society (Deluxe Expanded Edition),The Kinks,13,The Kinks,1968-11-22,2017-10-06T12:30:42Z,169706,False,,,,,,,c761be49bcabec90fe40264656954dfc
 Monica - Stereo Mix,The Kinks Are the Village Green Preservation Society (Deluxe Expanded Edition),The Kinks,14,The Kinks,1968-11-22,2017-10-06T12:30:42Z,135279,False,,,,,,,6a4a736fcf58a43af508c1d22b059354
 Spotty Grotty Anna - Stereo Mix,The Kinks Are the Village Green Preservation Society (Deluxe Expanded Edition),The Kinks,14,The Kinks,1968-11-22,2017-10-06T12:30:42Z,124693,False,,,,,,,08fa30fa00390b8ebd360f965eefacfe
@@ -6061,9 +6062,9 @@ I Don't Believe in the Sun,69 Love Songs,The Magnetic Fields,2,The Magnetic Fiel
 When My Boy Walks Down the Street,69 Love Songs,The Magnetic Fields,3,The Magnetic Fields,1999-09-14,2017-11-26T01:55:50Z,158226,False,,,,,,,8254e66c8a382adf3e9a0c9049f8127e
 Busby Berkeley Dreams,69 Love Songs,The Magnetic Fields,3,The Magnetic Fields,1999-09-14,2017-11-26T01:55:50Z,216640,False,,,,,,,b9b85d18a5782296c43f5646fcdb0ae0
 All My Little Words,69 Love Songs,The Magnetic Fields,3,The Magnetic Fields,1999-09-14,2017-10-04T14:42:14Z,166133,False,,,,,,,712627ef8b7567add3a5a076b4cf1fe3
-A Chicken With Its Head Cut Off,69 Love Songs,The Magnetic Fields,4,The Magnetic Fields,1999-09-14,2017-11-26T01:55:50Z,161706,False,,,,,,,f7e523895801ef4837465f040a8b4d78
 Time Enough for Rocking When We're Old,69 Love Songs,The Magnetic Fields,4,The Magnetic Fields,1999-09-14,2017-11-26T01:55:50Z,123800,False,,,,,,,4d2b2ed675876cc9c6c5f582f538a2ea
 I'm Sorry I Love You,69 Love Songs,The Magnetic Fields,4,The Magnetic Fields,1999-09-14,2017-11-26T01:55:50Z,186160,False,,,,,,,7d2d768d29c6c1901cb2c9af312235b6
+A Chicken With Its Head Cut Off,69 Love Songs,The Magnetic Fields,4,The Magnetic Fields,1999-09-14,2017-11-26T01:55:50Z,161706,False,,,,,,,f7e523895801ef4837465f040a8b4d78
 Reno Dakota,69 Love Songs,The Magnetic Fields,5,The Magnetic Fields,1999-09-14,2017-11-26T01:55:50Z,65293,False,,,,,,,a0e0dbbf2aff7a11c700e84f28d42ae0
 Very Funny,69 Love Songs,The Magnetic Fields,5,The Magnetic Fields,1999-09-14,2017-11-26T01:55:50Z,86880,False,,,,,,,b5be0ad5d746f1b002163913bd5f6227
 Acoustic Guitar,69 Love Songs,The Magnetic Fields,5,The Magnetic Fields,1999-09-14,2017-11-26T01:55:50Z,157693,False,,,,,,,0778eb097b4c12d62f289e76244cdff4
@@ -6100,8 +6101,8 @@ Blue You,69 Love Songs,The Magnetic Fields,15,The Magnetic Fields,1999-09-14,201
 I Can't Touch You Anymore,69 Love Songs,The Magnetic Fields,16,The Magnetic Fields,1999-09-14,2017-11-26T01:55:50Z,185706,False,,,,,,,ea004f5ba42ba79262b617d6a113e9d8
 Punk Love,69 Love Songs,The Magnetic Fields,16,The Magnetic Fields,1999-09-14,2017-11-26T01:55:50Z,58080,False,,,,,,,94610df5defa48fd847c85e13f16669e
 Kiss Me Like You Mean It,69 Love Songs,The Magnetic Fields,16,The Magnetic Fields,1999-09-14,2017-11-26T01:55:50Z,120986,False,,,,,,,03eacc60b79269c223786e8664479c63
-Parades Go By,69 Love Songs,The Magnetic Fields,17,The Magnetic Fields,1999-09-14,2017-11-26T01:55:50Z,176560,False,,,,,,,abfc16bbfa065e9226aff021c84a952e
 Two Kinds of People,69 Love Songs,The Magnetic Fields,17,The Magnetic Fields,1999-09-14,2017-11-26T01:55:50Z,70133,False,,,,,,,a74bdf16b4c2f3f9ee15f872b212e227
+Parades Go By,69 Love Songs,The Magnetic Fields,17,The Magnetic Fields,1999-09-14,2017-11-26T01:55:50Z,176560,False,,,,,,,abfc16bbfa065e9226aff021c84a952e
 Papa Was a Rodeo,69 Love Songs,The Magnetic Fields,17,The Magnetic Fields,1999-09-14,2017-11-26T01:55:50Z,301546,False,,,,,,,5430077c4ad50d0d0be9dc821f501d85
 Boa Constrictor,69 Love Songs,The Magnetic Fields,18,The Magnetic Fields,1999-09-14,2017-11-26T01:55:50Z,58733,False,,,,,,,03534afb07777a4f6fdec0f42634010e
 How to Say Goodbye,69 Love Songs,The Magnetic Fields,18,The Magnetic Fields,1999-09-14,2017-11-26T01:55:50Z,168293,False,,,,,,,6eaea8d95ccbea7381b65449f655823b
@@ -6320,8 +6321,8 @@ Starry Eyes,"Smashes, Crashes And Near Misses",The Records,1,The Records,1988-01
 "Answering Machine - Live at Maxwell's, Hoboken, NJ, 2/4/86",For Sale: Live At Maxwell's 1986,The Replacements,6,The Replacements,2017-10-06,2018-03-16T17:02:37Z,186093,False,,,,,,,0e0c2142a284971b7fbad0b88a791873
 "Favorite Thing - Live at Maxwell's, Hoboken, NJ, 2/4/86",For Sale: Live At Maxwell's 1986,The Replacements,7,The Replacements,2017-10-06,2018-03-16T17:02:37Z,141066,False,,,,,,,d69778a870bcbcacd4963bd2ca0423f0
 "Waitress In The Sky - Live at Maxwell's, Hoboken, NJ, 2/4/86",For Sale: Live At Maxwell's 1986,The Replacements,7,The Replacements,2017-10-06,2018-03-16T17:02:37Z,146266,False,,,,,,,10285caa8184f7bcac5fbf2559e7007b
-"Take Me Down To The Hospital - Live at Maxwell's, Hoboken, NJ, 2/4/86",For Sale: Live At Maxwell's 1986,The Replacements,8,The Replacements,2017-10-06,2018-03-16T17:02:37Z,238120,False,,,,,,,2d45562b12e179e3f55b655f4a208893
 "Unsatisfied - Live at Maxwell's, Hoboken, NJ, 2/4/86",For Sale: Live At Maxwell's 1986,The Replacements,8,The Replacements,2017-10-06,2018-03-16T17:02:37Z,172386,False,,,,,,,7aa32d7275e36d7c8977c75c72ebbb4c
+"Take Me Down To The Hospital - Live at Maxwell's, Hoboken, NJ, 2/4/86",For Sale: Live At Maxwell's 1986,The Replacements,8,The Replacements,2017-10-06,2018-03-16T17:02:37Z,238120,False,,,,,,,2d45562b12e179e3f55b655f4a208893
 "Can't Hardly Wait - Live at Maxwell's, Hoboken, NJ, 2/4/86",For Sale: Live At Maxwell's 1986,The Replacements,9,The Replacements,2017-10-06,2018-03-16T17:02:37Z,198120,False,,,,,,,ccdde4fb1884b114b248b045bf0ef40c
 "Gary's Got A Boner - Live at Maxwell's, Hoboken, NJ, 2/4/86",For Sale: Live At Maxwell's 1986,The Replacements,9,The Replacements,2017-10-06,2018-03-16T17:02:37Z,159546,True,,,,,,,9ebac72e2e3be2a571997f43ea486788
 "Tommy Gets His Tonsils Out - Live at Maxwell's, Hoboken, NJ, 2/4/86",For Sale: Live At Maxwell's 1986,The Replacements,10,The Replacements,2017-10-06,2018-03-16T17:02:37Z,131146,False,,,,,,,e0aefef076860425dcaebd9fdd12ffda
@@ -6586,14 +6587,14 @@ Dying For It,Enter The Vaselines (Deluxe Edition),The Vaselines,4,The Vaselines,
 Son Of A Gun (Live in Bristol),Enter The Vaselines (Deluxe Edition),The Vaselines,4,The Vaselines,2009-05-05,2017-11-26T02:46:21Z,238320,False,,,,,,,31e99508ac4daef672bbdabb8babe83c
 Molly's Lips,Enter The Vaselines (Deluxe Edition),The Vaselines,5,The Vaselines,2009-05-05,2017-11-26T02:46:21Z,104906,False,,,,,,,618569706b48bafd0d65f9cee4135b26
 Rosary Job (Live in Bristol),Enter The Vaselines (Deluxe Edition),The Vaselines,5,The Vaselines,2009-05-05,2017-11-26T02:46:21Z,203480,False,,,,,,,505269d80f560e7bae97b723ff7627d3
-Teenage Superstars,Enter The Vaselines (Deluxe Edition),The Vaselines,6,The Vaselines,2009-05-05,2017-11-26T02:46:21Z,207186,False,,,,,,,3a76b6dfa6e2a918ff98c83614c4955f
 Red Poppy (Live in Bristol),Enter The Vaselines (Deluxe Edition),The Vaselines,6,The Vaselines,2009-05-05,2017-11-26T02:46:21Z,130546,False,,,,,,,81c77aca012f1a3276401c3cc2988e18
+Teenage Superstars,Enter The Vaselines (Deluxe Edition),The Vaselines,6,The Vaselines,2009-05-05,2017-11-26T02:46:21Z,207186,False,,,,,,,3a76b6dfa6e2a918ff98c83614c4955f
 Jesus Wants Me For A Sunbeam,Enter The Vaselines (Deluxe Edition),The Vaselines,7,The Vaselines,2009-05-05,2017-11-26T02:46:21Z,210360,False,,,,,,,3540a354f5197e5cd71b8cbdc0b1d032
 Rory Rides Me Raw (Live in Bristol),Enter The Vaselines (Deluxe Edition),The Vaselines,7,The Vaselines,2009-05-05,2017-11-26T02:46:21Z,186546,False,,,,,,,9fb3392b57dba6e87c3bfe6e65e1f8d8
 Sex Sux (Amen),Enter The Vaselines (Deluxe Edition),The Vaselines,8,The Vaselines,2009-05-05,2017-11-26T02:46:21Z,190000,False,,,,,,,df62cee69eecb22c90fd3f1de7eed1cf
 You Think You're A Man (Live in Bristol),Enter The Vaselines (Deluxe Edition),The Vaselines,8,The Vaselines,2009-05-05,2017-11-26T02:46:21Z,108133,False,,,,,,,7b0ac0de3b6cf6957b19081489238c7c
-Slushy,Enter The Vaselines (Deluxe Edition),The Vaselines,9,The Vaselines,2009-05-05,2017-11-26T02:46:21Z,116026,False,,,,,,,1860125b1960529e19610181d68a9871
 Dying For It (Live in London),Enter The Vaselines (Deluxe Edition),The Vaselines,9,The Vaselines,2009-05-05,2017-11-26T02:46:21Z,132106,False,,,,,,,686cc7b7c4b16f194fdc96458f9f3c17
+Slushy,Enter The Vaselines (Deluxe Edition),The Vaselines,9,The Vaselines,2009-05-05,2017-11-26T02:46:21Z,116026,False,,,,,,,1860125b1960529e19610181d68a9871
 Monsterpussy,Enter The Vaselines (Deluxe Edition),The Vaselines,10,The Vaselines,2009-05-05,2017-11-26T02:46:21Z,102253,False,,,,,,,ccead589600720206adcbd4138ff01c0
 Monsterpussy (Live in London),Enter The Vaselines (Deluxe Edition),The Vaselines,10,The Vaselines,2009-05-05,2017-11-26T02:46:21Z,118360,False,,,,,,,b5733156a470c5e6ee4193f577ac48d8
 Bitch,Enter The Vaselines (Deluxe Edition),The Vaselines,11,The Vaselines,2009-05-05,2017-11-26T02:46:21Z,157306,False,,,,,,,92820b64be847cc4440c3f6a921efef4
@@ -6640,12 +6641,12 @@ Who Loves the Sun - Loaded 5.1 Surround Sound to Stereo Downmixes,Loaded: Re-Loa
 Who Loves the Sun - Stereo Version,Loaded: Re-Loaded 45th Anniversary Edition,The Velvet Underground,1,The Velvet Underground,1970,2017-11-26T02:48:41Z,165063,False,,,,,,,c14d70dc6c00de9510f2b93665ad6b5b
 Who Loves the Sun - Mono; 2015 Remaster,Loaded: Re-Loaded 45th Anniversary Edition,The Velvet Underground,1,The Velvet Underground,1970,2017-11-26T02:48:41Z,164880,False,,,,,,,87aaacf9f2ade38ac4d74f60af21299c
 "What Goes On - Live at Second Fret, Philadelphia, May 9, 1970",Loaded: Re-Loaded 45th Anniversary Edition,The Velvet Underground,2,The Velvet Underground,1970,2017-11-26T02:48:41Z,325533,False,,,,,,,44cc5efaa4bd78f0020205a75adcba65
-Sweet Jane - Mono; 2015 Remaster,Loaded: Re-Loaded 45th Anniversary Edition,The Velvet Underground,2,The Velvet Underground,1970,2017-11-26T02:48:41Z,195346,False,,,,,,,2e79006702edcd4ac3fb0277547e7269
 Sad Song - Demo; 2015 Remaster,Loaded: Re-Loaded 45th Anniversary Edition,The Velvet Underground,2,The Velvet Underground,1970,2017-11-26T02:48:41Z,210560,False,,,,,,,c089ed3abc6ad3eed91ed2fc40cc71f4
 White Light White Heat - Live at Max's Kansas City; 2015 Remaster,Loaded: Re-Loaded 45th Anniversary Edition,The Velvet Underground,2,The Velvet Underground,1970,2017-11-26T02:48:41Z,315293,False,,,,,,,5de90aef9d6607f13d3d269be4a14508
 Sweet Jane - Loaded 5.1 Surround Sound to Stereo Downmixes,Loaded: Re-Loaded 45th Anniversary Edition,The Velvet Underground,2,The Velvet Underground,1970,2017-11-26T02:48:41Z,263475,False,,,,,,,b69a65b9a52be7e99915acb625caa28c
 Sweet Jane - Stereo Version,Loaded: Re-Loaded 45th Anniversary Edition,The Velvet Underground,2,The Velvet Underground,1970,2017-11-26T02:48:41Z,197826,False,,,,,,,8ea7527f287cd2f90a86c4ce605ecb7a
 Sweet Jane - Full Length Version; 2015 Remaster,Loaded: Re-Loaded 45th Anniversary Edition,The Velvet Underground,2,The Velvet Underground,1970,2017-11-26T02:48:41Z,246306,False,,,,,,,4b7524f6503fb9fb375bcaf1b01faade
+Sweet Jane - Mono; 2015 Remaster,Loaded: Re-Loaded 45th Anniversary Edition,The Velvet Underground,2,The Velvet Underground,1970,2017-11-26T02:48:41Z,195346,False,,,,,,,2e79006702edcd4ac3fb0277547e7269
 Rock & Roll - Loaded Original Stereo Album,Loaded: Re-Loaded 45th Anniversary Edition,The Velvet Underground,3,The Velvet Underground,1970,2017-11-26T02:48:41Z,281130,False,,,,,,,0cdd60c16b8c52f528bef1b138d38e9e
 Satellite of Love - Demo; 2015 Remaster,Loaded: Re-Loaded 45th Anniversary Edition,The Velvet Underground,3,The Velvet Underground,1970,2017-11-26T02:48:41Z,180173,False,,,,,,,6e31b907564f68686a7df91cf6396a3b
 I'm Set Free - Live at Max's Kansas City; 2015 Remaster,Loaded: Re-Loaded 45th Anniversary Edition,The Velvet Underground,3,The Velvet Underground,1970,2017-11-26T02:48:41Z,386506,False,,,,,,,67271c64ae7e6710fd18deb91a8d6a3c
@@ -6675,9 +6676,9 @@ Head Held High - Mono; 2015 Remaster,Loaded: Re-Loaded 45th Anniversary Edition,
 Ocean - Demo; 2015 Remaster,Loaded: Re-Loaded 45th Anniversary Edition,The Velvet Underground,6,The Velvet Underground,1970,2017-11-26T02:48:41Z,364786,False,,,,,,,0daa9182075f938ec68601a81e7aa604
 New Age - Live at Max's Kansas City; 2015 Remaster,Loaded: Re-Loaded 45th Anniversary Edition,The Velvet Underground,6,The Velvet Underground,1970,2017-11-26T02:48:41Z,398213,False,,,,,,,034e07021bb6b7af56f3b5f1a8a591df
 "Some Kinda Love - Live at Second Fret, Philadelphia, May 9, 1970",Loaded: Re-Loaded 45th Anniversary Edition,The Velvet Underground,6,The Velvet Underground,1970,2017-11-26T02:48:41Z,263693,False,,,,,,,a6a375d8f0dbe4928295a48b1bac3e1a
-Lonesome Cowboy Bill - 2015 Remaster,Loaded: Re-Loaded 45th Anniversary Edition,The Velvet Underground,7,The Velvet Underground,1970,2017-11-26T02:48:41Z,163920,False,,,,,,,bfd038d0f04846392a021532d39c9258
 I Love You - Demo; 2015 Remaster,Loaded: Re-Loaded 45th Anniversary Edition,The Velvet Underground,7,The Velvet Underground,1970,2017-11-26T02:48:41Z,126160,False,,,,,,,32405285a81b69ea5eab54cc367b2d71
 I Found a Reason - Loaded 5.1 Surround Sound to Stereo Downmixes,Loaded: Re-Loaded 45th Anniversary Edition,The Velvet Underground,7,The Velvet Underground,1970,2017-11-26T02:48:41Z,254792,False,,,,,,,562badec73fb564594ca6d738ab703f7
+Lonesome Cowboy Bill - 2015 Remaster,Loaded: Re-Loaded 45th Anniversary Edition,The Velvet Underground,7,The Velvet Underground,1970,2017-11-26T02:48:41Z,163920,False,,,,,,,bfd038d0f04846392a021532d39c9258
 Lonesome Cowboy Bill - Mono; 2015 Remaster,Loaded: Re-Loaded 45th Anniversary Edition,The Velvet Underground,7,The Velvet Underground,1970,2017-11-26T02:48:41Z,162386,False,,,,,,,d5b01a6a3f73c870193c5e3b49c03cbc
 Beginning to See the Light - Live at Max's Kansas City 2015 Remaster,Loaded: Re-Loaded 45th Anniversary Edition,The Velvet Underground,7,The Velvet Underground,1970,2017-11-26T02:48:41Z,341906,False,,,,,,,da5b69c415d5e14ee921455c4919d338
 "New Age - Live at Second Fret, Philadelphia, May 9, 1970",Loaded: Re-Loaded 45th Anniversary Edition,The Velvet Underground,7,The Velvet Underground,1970,2017-11-26T02:48:41Z,449213,False,,,,,,,a5f17ce7ed231d64f7158ce1192fad79
@@ -6691,10 +6692,10 @@ I Found a Reason - Stereo Version,Loaded: Re-Loaded 45th Anniversary Edition,The
 I Found a Reason - 2015 Remaster,Loaded: Re-Loaded 45th Anniversary Edition,The Velvet Underground,8,The Velvet Underground,1970,2017-11-26T02:48:41Z,255680,False,,,,,,,5a6c87ee74b375f8a628e96910707e7a
 Train Round the Bend - Mono; 2015 Remaster,Loaded: Re-Loaded 45th Anniversary Edition,The Velvet Underground,9,The Velvet Underground,1970,2017-11-26T02:48:41Z,197600,False,,,,,,,4a5f158c37bd7b0dddfc6864addc5f46
 Train Round the Bend - 2015 Remaster,Loaded: Re-Loaded 45th Anniversary Edition,The Velvet Underground,9,The Velvet Underground,1970,2017-11-26T02:48:41Z,201440,False,,,,,,,727c86dcd4fd9da255179f3f52c7f5f5
-Pale Blue Eyes - Live at Max's Kansas City; 2015 Remaster,Loaded: Re-Loaded 45th Anniversary Edition,The Velvet Underground,9,The Velvet Underground,1970,2017-11-26T02:48:41Z,360600,False,,,,,,,39976775d16e2ed0c74f87da4206c69a
 Train Round the Bend - Loaded 5.1 Surround Sound to Stereo Downmixes,Loaded: Re-Loaded 45th Anniversary Edition,The Velvet Underground,9,The Velvet Underground,1970,2017-11-26T02:48:41Z,270344,False,,,,,,,68c8779ea4738a97877050db1247888d
 Train Round the Bend - Stereo Version,Loaded: Re-Loaded 45th Anniversary Edition,The Velvet Underground,9,The Velvet Underground,1970,2017-11-26T02:48:41Z,202675,False,,,,,,,4eb00ddd5206f2819c1d5c8ed7dcfcd7
 I Found a Reason - Demo; 2015 Remaster,Loaded: Re-Loaded 45th Anniversary Edition,The Velvet Underground,9,The Velvet Underground,1970,2017-11-26T02:48:41Z,197066,False,,,,,,,66b0ee92fc455dc170599277ccc2ec0e
+Pale Blue Eyes - Live at Max's Kansas City; 2015 Remaster,Loaded: Re-Loaded 45th Anniversary Edition,The Velvet Underground,9,The Velvet Underground,1970,2017-11-26T02:48:41Z,360600,False,,,,,,,39976775d16e2ed0c74f87da4206c69a
 "Head Held High - Live at Second Fret, Philadelphia, May 9, 1970",Loaded: Re-Loaded 45th Anniversary Edition,The Velvet Underground,9,The Velvet Underground,1970,2017-11-26T02:48:41Z,255253,False,,,,,,,1e9f935cc43f49787be4abe4a1631d25
 Candy Says - Live at Max's Kansas City; 2015 Remaster,Loaded: Re-Loaded 45th Anniversary Edition,The Velvet Underground,10,The Velvet Underground,1970,2017-11-26T02:48:41Z,349666,False,,,,,,,7c144750269d81ba8f625c3dc3f29968
 "Train Round the Bend - Live at Second Fret, Philadelphia, May 9, 1970",Loaded: Re-Loaded 45th Anniversary Edition,The Velvet Underground,10,The Velvet Underground,1970,2017-11-26T02:48:41Z,531133,False,,,,,,,48a6408f21613152fe4c03da4e643833
@@ -6703,9 +6704,9 @@ Oh! Sweet Nuthin' - Mono; 2015 Remaster,Loaded: Re-Loaded 45th Anniversary Editi
 Cool It Down - Early Version Remix; 2015 Remaster,Loaded: Re-Loaded 45th Anniversary Edition,The Velvet Underground,10,The Velvet Underground,1970,2017-11-26T02:48:41Z,257626,False,,,,,,,f2f3193521c190ff6c6ed3d7428da7e2
 Oh! Sweet Nuthing' - Loaded 5.1 Surround Sound to Stereo Downmixes,Loaded: Re-Loaded 45th Anniversary Edition,The Velvet Underground,10,The Velvet Underground,1970,2017-11-26T02:48:41Z,446259,False,,,,,,,70babe5af2dcebb49109d3d94e221981
 Oh! Sweet Nuthin' - Stereo Version,Loaded: Re-Loaded 45th Anniversary Edition,The Velvet Underground,10,The Velvet Underground,1970,2017-11-26T02:48:41Z,444778,False,,,,,,,afadf6e6a9bd8149ea23932b7e58a86b
-Sunday Morning - Live at Max's Kansas City; 2015 Remaster,Loaded: Re-Loaded 45th Anniversary Edition,The Velvet Underground,11,The Velvet Underground,1970,2017-11-26T02:48:41Z,218693,False,,,,,,,89f74a193f9c230e055101f88c4ca61d
 I'm Sticking with You - Session Outtake; 2015 Remaster,Loaded: Re-Loaded 45th Anniversary Edition,The Velvet Underground,11,The Velvet Underground,1970,2017-11-26T02:48:41Z,173160,False,,,,,,,0079f846f601f420ba338db8236c9bf8
 Sweet Jane - Early Version Remix; 2015 Remaster,Loaded: Re-Loaded 45th Anniversary Edition,The Velvet Underground,11,The Velvet Underground,1970,2017-11-26T02:48:41Z,331080,False,,,,,,,f7625889553af0b93acb6cba6711ee96
+Sunday Morning - Live at Max's Kansas City; 2015 Remaster,Loaded: Re-Loaded 45th Anniversary Edition,The Velvet Underground,11,The Velvet Underground,1970,2017-11-26T02:48:41Z,218693,False,,,,,,,89f74a193f9c230e055101f88c4ca61d
 "Oh! Sweet Nuthin' - Live at Second Fret, Philadelphia, May 9, 1970",Loaded: Re-Loaded 45th Anniversary Edition,The Velvet Underground,11,The Velvet Underground,1970,2017-11-26T02:48:41Z,456026,False,,,,,,,a48f9a29c5e94fee62e77662d5b96e70
 Who Loves the Sun - Mono; 2015 Remaster Single,Loaded: Re-Loaded 45th Anniversary Edition,The Velvet Underground,11,The Velvet Underground,1970,2017-11-26T02:48:41Z,167653,False,,,,,,,1f88e3ff2dd649162de9aefcd357269e
 After Hours - Live at Max's Kansas City; 2015 Remaster,Loaded: Re-Loaded 45th Anniversary Edition,The Velvet Underground,12,The Velvet Underground,1970,2017-11-26T02:48:41Z,177773,False,,,,,,,911d867cca7a603c7716abf7c30db8d5
@@ -6714,8 +6715,8 @@ Oh! Sweet Nuthin' - Mono; 2015 Remaster Single,Loaded: Re-Loaded 45th Anniversar
 Lonesome Cowboy Bill - Early Version Remix; 2015 Remaster,Loaded: Re-Loaded 45th Anniversary Edition,The Velvet Underground,12,The Velvet Underground,1970,2017-11-26T02:48:41Z,198613,False,,,,,,,7c03c8f34a5965d59d061c928a141e61
 Ocean - 2015 Remastered Session Outtake Version,Loaded: Re-Loaded 45th Anniversary Edition,The Velvet Underground,12,The Velvet Underground,1970,2017-04-14T19:37:04Z,344933,False,,,,,,,7570e925582814cc57e401bb8a5d6338
 Femme Fatale - Live at Max's Kansas City; 2015 Remaster,Loaded: Re-Loaded 45th Anniversary Edition,The Velvet Underground,13,The Velvet Underground,1970,2017-11-26T02:48:41Z,189413,False,,,,,,,c5f1cbb2a32c026150ce6db11e4019a7
-I Love You - Session Outtake; 2015 Remaster,Loaded: Re-Loaded 45th Anniversary Edition,The Velvet Underground,13,The Velvet Underground,1970,2017-11-26T02:48:41Z,173946,False,,,,,,,533a91eb29c74805672bc6d0f4c37e86
 Head Held High - Early Version Remix; 2015 Remaster,Loaded: Re-Loaded 45th Anniversary Edition,The Velvet Underground,13,The Velvet Underground,1970,2017-11-26T02:48:41Z,175466,False,,,,,,,dc7bf3df12250c7da69428513a0a91ab
+I Love You - Session Outtake; 2015 Remaster,Loaded: Re-Loaded 45th Anniversary Edition,The Velvet Underground,13,The Velvet Underground,1970,2017-11-26T02:48:41Z,173946,False,,,,,,,533a91eb29c74805672bc6d0f4c37e86
 Rock & Roll - Mono,Loaded: Re-Loaded 45th Anniversary Edition,The Velvet Underground,13,The Velvet Underground,1970,2017-11-26T02:48:41Z,185120,False,,,,,,,22f4a9221eb61c8a1378796cc6130acf
 Ride into the Sun - Session Outtake; 2015 Remaster,Loaded: Re-Loaded 45th Anniversary Edition,The Velvet Underground,14,The Velvet Underground,1970,2017-11-26T02:48:41Z,203533,False,,,,,,,746d1902dd703b18aefcfaacae10bc06
 Oh! Sweet Nuthin' - Early Version Remix; 2015 Remaster,Loaded: Re-Loaded 45th Anniversary Edition,The Velvet Underground,14,The Velvet Underground,1970,2017-11-26T02:48:41Z,243800,False,,,,,,,56ec5eade24f8783e78e1bf3fc4f4b02
@@ -6734,8 +6735,8 @@ Candy Says,The Velvet Underground (45th Anniversary / Deluxe Edition),The Velvet
 I'm Waiting For The Man - Live In San Francisco / 1969,The Velvet Underground (45th Anniversary / Deluxe Edition),The Velvet Underground,1,The Velvet Underground,1969-03,2017-10-01T23:51:08Z,329733,False,,,,,,,9f812353885635df73638d37960b299a
 What Goes On,The Velvet Underground (45th Anniversary / Deluxe Edition),The Velvet Underground,2,The Velvet Underground,1969-03,2017-10-01T23:51:08Z,293813,False,,,,,,,7c019cd8678da2670090329dde143e6a
 What Goes On - Live In San Francisco / 1969,The Velvet Underground (45th Anniversary / Deluxe Edition),The Velvet Underground,2,The Velvet Underground,1969-03,2017-10-01T23:51:08Z,273720,False,,,,,,,58bdc50ecac7d9c9ac27e2b657d4b777
-Some Kinda Love,The Velvet Underground (45th Anniversary / Deluxe Edition),The Velvet Underground,3,The Velvet Underground,1969-03,2017-10-01T23:51:08Z,242840,False,,,,,,,9368a04b758cdc7fb17e4bac502e80f6
 Some Kinda Love - Live In San Francisco / 1969,The Velvet Underground (45th Anniversary / Deluxe Edition),The Velvet Underground,3,The Velvet Underground,1969-03,2017-10-01T23:51:08Z,243213,False,,,,,,,f8da4af9ee4db313beceaa8618f82f02
+Some Kinda Love,The Velvet Underground (45th Anniversary / Deluxe Edition),The Velvet Underground,3,The Velvet Underground,1969-03,2017-10-01T23:51:08Z,242840,False,,,,,,,9368a04b758cdc7fb17e4bac502e80f6
 Over You - Live In San Francisco / 1969,The Velvet Underground (45th Anniversary / Deluxe Edition),The Velvet Underground,4,The Velvet Underground,1969-03,2017-10-01T23:51:08Z,181666,False,,,,,,,87da18a08827354fea136bb16659fed5
 Pale Blue Eyes,The Velvet Underground (45th Anniversary / Deluxe Edition),The Velvet Underground,4,The Velvet Underground,1969-03,2017-04-12T18:45:59Z,339533,False,,,,,,,2177b38e8df93d9052216211270c9a93
 Jesus,The Velvet Underground (45th Anniversary / Deluxe Edition),The Velvet Underground,5,The Velvet Underground,1969-03,2017-10-01T23:51:08Z,203546,False,,,,,,,0f29028d6c8045aaa7caf135d8194d77
